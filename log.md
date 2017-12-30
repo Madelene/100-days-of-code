@@ -8,3 +8,12 @@
 - My goal is to finish this tutorial
 
 **Thoughts:** It was difficult to focus on the tutorial, because of the students asking for help, but heroku-wise, we fixed an asset issue (make sure `font-size` has a dash in between! Heroku does not like CSS errors!), made sure the Gemfile only had 1 development block and 1 production block, and pushed successfully!
+
+### Day 1: December 30, 2017, Saturday
+
+** Today's Progress** :
+- I worked on the `frontend-chat` tutorial and pushed to heroku successfully
+
+**Thoughts:** Learned how Rails works with Webpacker
+
+**Link to work:** [frontend-chat](https://frontend-chat.herokuapp.com/)
