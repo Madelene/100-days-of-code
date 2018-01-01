@@ -25,3 +25,10 @@
 Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** I built a front end chat all with Rails!
+
+### Day 3: January 1, 2018, Monday
+
+** Today's Progress** :
+- Working my way through freeCodeCamp courses. Still on HTML5/CSS, but it's good to reinforce what I already know.
+
+**Thoughts:** Today is more of a relaxing day for coding!
