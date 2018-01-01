@@ -17,3 +17,11 @@
 **Thoughts:** Learned how Rails works with Webpacker
 
 **Link to work:** [frontend-chat](https://frontend-chat.herokuapp.com/)
+
+### Day 2: December 31, 2017, Sunday
+
+** Today's Progress** :
+- I finished the `frontend-chat` and also learned how to use static assets, as well as re-enable
+Turbolinks, as well as get around not using Sprockets
+
+**Thoughts:** I built a front end chat all with Rails!
