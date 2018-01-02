@@ -32,3 +32,11 @@ Turbolinks, as well as get around not using Sprockets
 - Working my way through freeCodeCamp courses. Still on HTML5/CSS, but it's good to reinforce what I already know.
 
 **Thoughts:** Today is more of a relaxing day for coding!
+
+### Day 4: January 2, 2018, Tuesday
+
+** Today's Progress** :
+- Worked on more freeCodeCamp exercises.
+- Nerded out over code with a few people.
+
+**Thoughts:** It is good to keep reinforcing the skills I already know. However, new things keep sinking in as well!
