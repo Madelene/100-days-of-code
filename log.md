@@ -49,4 +49,10 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** Being unemployed is very scary, but learning more things keeps me going!
 
+### Day 6: January 4, 2018, Thursday
 
+** Today's Progress** :
+- Finished answering technical questions with a potential employer
+- Fixing bugs in a Rails app for another potential employer
+
+**Thoughts:** Being able to complete these challenges confirms that I actually know some things and have improved, these past 2 years! What a good feeling!
