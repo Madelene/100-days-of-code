@@ -40,3 +40,13 @@ Turbolinks, as well as get around not using Sprockets
 - Nerded out over code with a few people.
 
 **Thoughts:** It is good to keep reinforcing the skills I already know. However, new things keep sinking in as well!
+
+### Day 5: January 3, 2018, Wednesday
+
+** Today's Progress** :
+- Learned about Services in Rails
+- Answered technical questions for a potential job
+
+**Thoughts:** Being unemployed is very scary, but learning more things keeps me going!
+
+
