@@ -56,3 +56,12 @@ Turbolinks, as well as get around not using Sprockets
 - Fixing bugs in a Rails app for another potential employer
 
 **Thoughts:** Being able to complete these challenges confirms that I actually know some things and have improved, these past 2 years! What a good feeling!
+
+### Day 7: January 5, 2018, Friday
+
+** Today's Progress** :
+- TAed at Wyncode and helped a student set up Rails on their new MacBook
+- Helped another student model their data for an upcoming project
+- Learned about GitLab Workhorse
+
+**Thoughts:** Cohort 20 left me a "thank you" note for TAing their cohort. Very cool! 
