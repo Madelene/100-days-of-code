@@ -73,3 +73,11 @@ Turbolinks, as well as get around not using Sprockets
 - More freeCodeCamp front end fun!
 
 **Thoughts:** Even though I am always reading about code or programmers or programming, it is good to take a break from time to time. Balance is everything. That being said, I'm having a blast understanding front end better and better!!
+
+### Day 9: January 7, 2018, Sunday
+
+** Today's Progress** :
+- Understanding how things tie in, better than before!
+- Went through more freeCodeCamp exercises. Working through jQuery selectors.
+
+**Thoughts:** When I started to learn all of this, over 2 years ago, I had to take extensive notes and really try to wrap my brain around it all. Now, it seems like second nature; it is purely reinforcing!! Yay!
