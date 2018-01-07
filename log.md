@@ -65,3 +65,11 @@ Turbolinks, as well as get around not using Sprockets
 - Learned about GitLab Workhorse
 
 **Thoughts:** Cohort 20 left me a "thank you" note for TAing their cohort. Very cool! 
+
+### Day 8: January 6, 2018, Saturday
+
+** Today's Progress** :
+- Applied for more jobs
+- More freeCodeCamp fun!
+
+**Thoughts:** Even though I am always reading about code or programmers or programming, it is good to take a break from time to time. Balance is everything.
