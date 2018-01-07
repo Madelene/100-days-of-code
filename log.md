@@ -70,6 +70,6 @@ Turbolinks, as well as get around not using Sprockets
 
 ** Today's Progress** :
 - Applied for more jobs
-- More freeCodeCamp fun!
+- More freeCodeCamp front end fun!
 
-**Thoughts:** Even though I am always reading about code or programmers or programming, it is good to take a break from time to time. Balance is everything.
+**Thoughts:** Even though I am always reading about code or programmers or programming, it is good to take a break from time to time. Balance is everything. That being said, I'm having a blast understanding front end better and better!!
