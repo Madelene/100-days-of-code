@@ -81,3 +81,11 @@ Turbolinks, as well as get around not using Sprockets
 - Went through more freeCodeCamp exercises. Working through jQuery selectors.
 
 **Thoughts:** When I started to learn all of this, over 2 years ago, I had to take extensive notes and really try to wrap my brain around it all. Now, it seems like second nature; it is purely reinforcing!! Yay!
+
+### Day 10: January 8, 2018, Monday
+
+** Today's Progress** :
+- TAed at Wyncode. Helped a student push to production/Heroku
+- Figured out that another student was deleting items from the database (had bad data)
+
+**Thoughts:** The first student had operating system/Ruby Version issues. We resolved it by using rbenv.
