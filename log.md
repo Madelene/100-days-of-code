@@ -90,3 +90,10 @@ Turbolinks, as well as get around not using Sprockets
 - Taught a student the decent_exposure gem. 
 
 **Thoughts:** The first student had operating system/Ruby Version issues. We resolved it by using rbenv.
+
+### Day 11: January 9, 2018, Tuesday
+
+** Today's Progress** :
+- Making my way through the freeCodeCamp jQuery lessons. 
+
+**Thoughts:** I remember, before attending Wyncode (over 2 years ago), learning about jQuery and understanding and liking it. 
