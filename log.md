@@ -87,5 +87,6 @@ Turbolinks, as well as get around not using Sprockets
 ** Today's Progress** :
 - TAed at Wyncode. Helped a student push to production/Heroku
 - Figured out that another student was deleting items from the database (had bad data)
+- Taught a student the decent_exposure gem. 
 
 **Thoughts:** The first student had operating system/Ruby Version issues. We resolved it by using rbenv.
