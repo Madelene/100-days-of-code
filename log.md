@@ -97,3 +97,12 @@ Turbolinks, as well as get around not using Sprockets
 - Making my way through the freeCodeCamp jQuery lessons. 
 
 **Thoughts:** I remember, before attending Wyncode (over 2 years ago), learning about jQuery and understanding and liking it. 
+
+### Day 12: January 10, 2018, Wednesday
+
+** Today's Progress** :
+- Working on personal project (Rails). Need to hook up the OMDB Api and get it to work in app.
+- Answering more technical questions for jobs.
+- TAing at Wyncode, helping students with forking/cloning on GitHub and their Rails projects.
+
+**Thoughts:** Looking for a job is frustrating, but I'm trying to take things one step at a time, always moving forward and learning.
