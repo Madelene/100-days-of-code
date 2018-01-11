@@ -106,3 +106,10 @@ Turbolinks, as well as get around not using Sprockets
 - TAing at Wyncode, helping students with forking/cloning on GitHub and their Rails projects.
 
 **Thoughts:** Looking for a job is frustrating, but I'm trying to take things one step at a time, always moving forward and learning.
+
+### Day 13: January 11, 2018 Thursday
+
+** Today's Progress** :
+- Worked on a blockchain tutorial (in JavaScript and Ruby)
+
+**Thoughts:** It was interesting to learn that if one block is changes, all subsequent blocks would need to be changed.
