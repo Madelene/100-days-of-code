@@ -113,3 +113,12 @@ Turbolinks, as well as get around not using Sprockets
 - Worked on a blockchain tutorial (in JavaScript and Ruby)
 
 **Thoughts:** It was interesting to learn that if one block is changes, all subsequent blocks would need to be changed.
+
+### Day 14: January 12, 2018 Friday
+
+** Today's Progress** :
+- Successfully routed buttons in my moviesiveseen Rails project (personal project) and have all of the CRUD operations working. Need to style.
+- Background image on homepage was not showing in production (Heroku). Figured that out by adding a few lines in config
+- Styled the welcome page in CSS, instead of in the assets/javascript file (unnecessary!)
+
+**Thoughts:** It feels GOOD to be making some progress on this project. 
