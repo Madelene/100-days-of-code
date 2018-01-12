@@ -120,5 +120,6 @@ Turbolinks, as well as get around not using Sprockets
 - Successfully routed buttons in my moviesiveseen Rails project (personal project) and have all of the CRUD operations working. Need to style.
 - Background image on homepage was not showing in production (Heroku). Figured that out by adding a few lines in config
 - Styled the welcome page in CSS, instead of in the assets/javascript file (unnecessary!)
+- Will TA at Wyncode for a few hours today!
 
 **Thoughts:** It feels GOOD to be making some progress on this project. 
