@@ -123,3 +123,10 @@ Turbolinks, as well as get around not using Sprockets
 - Will TA at Wyncode for a few hours today!
 
 **Thoughts:** It feels GOOD to be making some progress on this project. 
+
+### Day 15: January 13, 2018 Saturday
+
+** Today's Progress**:
+- Worked on the personal project, adding image uploading and authorization!
+
+**Thoughts:** Making more progress! Image uploading was so difficult, before, but it makes more sense now!
