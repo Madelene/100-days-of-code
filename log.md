@@ -128,5 +128,15 @@ Turbolinks, as well as get around not using Sprockets
 
 ** Today's Progress**:
 - Worked on the personal project, adding image uploading and authorization!
+- Coded with a friend. She made me aware of accessibility for font colors, etc
 
 **Thoughts:** Making more progress! Image uploading was so difficult, before, but it makes more sense now!
+
+### Day 16: January 14, 2018 Sunday
+
+** Today's Progress**:
+- Working on image feature in movie Rails app
+- Styling (learning!)
+
+**Thoughts:** Making progress builds confidence. Solving certain issues makes more sense than it did a year ago. Progress!
+
