@@ -136,7 +136,7 @@ Turbolinks, as well as get around not using Sprockets
 
 ** Today's Progress**:
 - Working on image feature in movie Rails app
-- Styling (learning!)
+- Works on styling Welcome page. Had fun playing with fonts!
 
 **Thoughts:** Making progress builds confidence. Solving certain issues makes more sense than it did a year ago. Progress!
 
