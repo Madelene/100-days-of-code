@@ -140,3 +140,11 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** Making progress builds confidence. Solving certain issues makes more sense than it did a year ago. Progress!
 
+### Day 17: January 15, 2018 Monday
+
+** Today's Progress**:
+- TAed at Wyncode for 5 hours, helping students with their REPL games (in Ruby). Taught some students the beauty of using methods (and where/when to call them).
+- Helped describe the difference between returning an object, in Rails, compared to calling an attribute on that object (which is what he wanted)
+
+**Thoughts:** It is always fun to witness the moment when things click with a student
+
