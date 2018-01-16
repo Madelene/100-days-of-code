@@ -148,3 +148,11 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** It is always fun to witness the moment when things click with a student
 
+### Day 18: January 16, 2018 Tuesday
+
+** Today's Progress**:
+- Partially designed index page. It's looking so cool!!! 
+- Had a job interview with a screenshare - had to make tests pass (I did), and explain the code I changed and why (I felt like it went well)
+
+**Thoughts:** It's nice to build a project I will feel proud to show others
+
