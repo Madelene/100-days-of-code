@@ -156,3 +156,11 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** It's nice to build a project I will feel proud to show others
 
+### Day 19: January 17, 2010 Wednesday
+
+** Today's Progress**:
+- Let a breakout session at Wyncode about Classes and Methods
+- The border around my images changes when the screen size changes - need to figure this out! (Rails app)
+
+**Thoughts:** Starting to feel depressed about the job situation. Got another rejection.
+
