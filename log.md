@@ -156,11 +156,20 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** It's nice to build a project I will feel proud to show others
 
-### Day 19: January 17, 2010 Wednesday
+### Day 19: January 17, 2018 Wednesday
 
 ** Today's Progress**:
 - Let a breakout session at Wyncode about Classes and Methods
 - The border around my images changes when the screen size changes - need to figure this out! (Rails app)
 
 **Thoughts:** Starting to feel depressed about the job situation. Got another rejection.
+
+### Day 20: January 18, 2018 Thursday
+
+** Today's Progress**:
+- Both the Welcome page and the Index page are responsive on all devices!
+- Need to figure out image size on heroku (significantly smaller than on local)
+- Had another interview (went well - will get coding challenge)
+
+**Thoughts:** Coding makes me happy. I can lose myself in it, and know that this is the "right" path for me. It felt so good to make the 2 pages responsive!
 
