@@ -173,3 +173,11 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** Coding makes me happy. I can lose myself in it, and know that this is the "right" path for me. It felt so good to make the 2 pages responsive!
 
+### Day 21: January 19, 2018 Friday
+
+** Today's Progress**:
+- Figured out a solution to one of the coding challenges given for a job!
+- Need to figure out the ReactJS part
+
+**Thoughts:** I know I am competent, and just need to prove it to others in order to make a living in this field, again!
+
