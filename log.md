@@ -181,3 +181,11 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** I know I am competent, and just need to prove it to others in order to make a living in this field, again!
 
+### Day 22: January 20, 2018 Saturday
+
+** Today's Progress**:
+- Pretty much figured out the Rails side of things for this coding challenge.
+- Trying to integrate React components to make this a SPA. Having trouble getting the framework to recognize the view/components (returning json, instead)
+
+**Thoughts:** I am so close to finishing this challenge! It feels good that I'm "doing it". Once I figure out how to get the API to read the React components, I'll be in business.
+
