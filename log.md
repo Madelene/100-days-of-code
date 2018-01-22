@@ -189,3 +189,13 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** I am so close to finishing this challenge! It feels good that I'm "doing it". Once I figure out how to get the API to read the React components, I'll be in business.
 
+### Day 23: January 21, 2018 Sunday
+
+** Today's Progress**:
+- Figured out how to render my components in the DOM
+- Wired in the Index, Show, Edit and Delete functions
+- Edit, now, requires that all fields are filled in, or else it will save it as null. Need to fix that
+- Need to do the Create!
+
+**Thoughts:** I can not believe I am figuring all of this stuff out on my own!!! I hope I get a job offer soon!
+
