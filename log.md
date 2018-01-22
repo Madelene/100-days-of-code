@@ -199,3 +199,10 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** I can not believe I am figuring all of this stuff out on my own!!! I hope I get a job offer soon!
 
+### Day 24: January 22, 2018 Monday
+
+** Today's Progress**:
+- Successfully created all CRUD actions to the SPA/React front! I can DELETE a Post, CREATE a Post, EDIT, and view all of the active ones!
+
+**Thoughts:** Just a few months ago, I would not have been able to build this on my own. I have literally not asked anyone for help, thus far!! (Besides Google)
+
