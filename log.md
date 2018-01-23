@@ -206,3 +206,12 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** Just a few months ago, I would not have been able to build this on my own. I have literally not asked anyone for help, thus far!! (Besides Google)
 
+### Day 25: January 23, 2018 Tuesday
+
+** Today's Progress**:
+- Finished abstracting the factorial function from the backend to the client-side. Got it to work in the Update and Create methods!
+- Turned in that coding challenge
+- Got a trial offer to work for a week or 2 at a startup in Brickell
+
+**Thoughts:** I will take the trial, and hopefully hear back from the coding challenge job as well. Always learning and moving forward! Today was a very productive REACT day!
+
