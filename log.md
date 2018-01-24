@@ -215,3 +215,12 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:** I will take the trial, and hopefully hear back from the coding challenge job as well. Always learning and moving forward! Today was a very productive REACT day!
 
+### Day 26: January 24, 2018 Wednesday
+
+** Today's Progress**:
+- Pushed the massive coding challenge to GitHub
+- Attending an "Add Redux to your React App" meetup tonight!
+- TAed at Wyncode (did 2 one-on-ones. Challenge was about running RSpecs and building a Card class)
+
+**Thoughts:**
+- I got rejected from the remote job, but still feel pretty good! The CTO said that I "impressed him" and would keep me in mind for the future. I feel so good that I was able to do the challenge all by myself! Rails AND React!
