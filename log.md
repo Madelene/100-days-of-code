@@ -236,7 +236,9 @@ Turbolinks, as well as get around not using Sprockets
 ### Day 28: January 26, 2018 Friday
 
 ** Today's Progress**:
--
+- Working on a challenge in Python! 
+- Figured out how to install pip (I vaguely remember this from a Meetup I went to in Chicago, about 3 years ago)
+- Was able to run the script and view the data. Now, to tackle the challenge!
 
 **Thoughts:**
-- 
+- Starting to see patterns. Realizing that fundamental concepts really are the same! (Similar to music)
