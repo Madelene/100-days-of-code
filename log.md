@@ -224,3 +224,19 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:**
 - I got rejected from the remote job, but still feel pretty good! The CTO said that I "impressed him" and would keep me in mind for the future. I feel so good that I was able to do the challenge all by myself! Rails AND React!
+
+### Day 27: January 25, 2018 Thursday
+
+** Today's Progress**:
+- Honestly did not do much. Went over a bit of Redux from the meetup last night
+
+**Thoughts:**
+- Sometimes you need a break to let things sink in.
+
+### Day 28: January 26, 2018 Friday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+- 
