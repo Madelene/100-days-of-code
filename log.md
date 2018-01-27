@@ -239,7 +239,7 @@ Turbolinks, as well as get around not using Sprockets
 - Working on a challenge in Python! 
 - Figured out how to install pip (I vaguely remember this from a Meetup I went to in Chicago, about 3 years ago)
 - Was able to run the script and view the data. Now, to tackle the challenge!
-- TAed at Wyncode. Back in RubyLand! :)
+- TAed at Wyncode. Helped someone with their JavaScript datepicker; got it to work!
 
 **Thoughts:**
 - Starting to see patterns. Realizing that fundamental concepts really are the same! (Similar to music)
