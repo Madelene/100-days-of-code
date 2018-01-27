@@ -243,3 +243,11 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:**
 - Starting to see patterns. Realizing that fundamental concepts really are the same! (Similar to music)
+
+### Day 29: January 27, 2018 Saturday
+
+** Today's Progress**:
+- Spent the day learning about Python: syntax, Classes, Data Structures, Flow Control, etc
+
+**Thoughts:**
+- I love learning languages. Programming languages are no different. I can get used to this!
