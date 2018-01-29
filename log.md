@@ -251,3 +251,13 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:**
 - I love learning languages. Programming languages are no different. I can get used to this!
+
+### Day 30: January 28, 2018 Sunday
+
+** Today's Progress**:
+- Still trying to display data to the screen using Python. 
+- Am able to display the list of IDs, but I need the data from those ID objects.
+- Tried the challenge in Ruby, to get a feel for what needs to get done.
+
+**Thoughts:**
+- I will keep researching how to go about doing this!
