@@ -261,3 +261,11 @@ Turbolinks, as well as get around not using Sprockets
 
 **Thoughts:**
 - I will keep researching how to go about doing this!
+
+### Day 31: January 29, 2018 Monday
+
+** Today's Progress**:
+- Learned how to return data in Python. A friend taught me some cool Python tricks!
+
+**Thoughts:**
+- I really enjoy learning this language.
