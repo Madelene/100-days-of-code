@@ -279,3 +279,14 @@ Turbolinks, as well as get around not using Sprockets
 **Thoughts:**
 - I hope something good comes of learning all of these things.
 
+### Day 33: January 31, 2018 Wednesday
+
+** Today's Progress**:
+- TAed at Wyncode. Worked with one girl on HTML and CSS, fixed a Rails form for another group, and
+went over pulling out data from an array of objects in Ruby.
+
+**Thoughts:**
+- I do enjoy working with people, and watching the lightbulbs go off when they've finally understood what I've explained!
+
+
+
