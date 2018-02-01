@@ -266,6 +266,16 @@ Turbolinks, as well as get around not using Sprockets
 
 ** Today's Progress**:
 - Learned how to return data in Python. A friend taught me some cool Python tricks!
+- Watched a few videos about how to return data from an API in Python
 
 **Thoughts:**
 - I really enjoy learning this language.
+
+### Day 32: January 30, 2018 Tuesday
+
+** Today's Progress**:
+- Got the python script to return data, using classes! 
+
+**Thoughts:**
+- I hope something good comes of learning all of these things.
+
