@@ -288,5 +288,13 @@ went over pulling out data from an array of objects in Ruby.
 **Thoughts:**
 - I do enjoy working with people, and watching the lightbulbs go off when they've finally understood what I've explained!
 
+### Day 34: February 1, 2018 Thursday
 
+** Today's Progress**:
+- Applied to more jobs.
+- Video interview with another job
+- More Python
+
+**Thoughts:**
+- Today was frustrating. I felt like giving up, yet at the same time, strangely motivated. One foot in front of the other!
 
