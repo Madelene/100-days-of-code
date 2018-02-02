@@ -298,3 +298,11 @@ went over pulling out data from an array of objects in Ruby.
 **Thoughts:**
 - Today was frustrating. I felt like giving up, yet at the same time, strangely motivated. One foot in front of the other!
 
+### Day 35: February 2, 2018 Friday
+
+** Today's Progress**:
+- Applied to Magic Leap
+- Trying to output raw data when I run a python script with a specific argument
+
+**Thoughts:**
+- Feeling a bit more motivated, today. After this python challenge, I want to learn NodeJS
