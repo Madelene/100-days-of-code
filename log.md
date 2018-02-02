@@ -293,7 +293,7 @@ went over pulling out data from an array of objects in Ruby.
 ** Today's Progress**:
 - Applied to more jobs.
 - Video interview with another job
-- More Python
+- More Python: Command line arguments
 
 **Thoughts:**
 - Today was frustrating. I felt like giving up, yet at the same time, strangely motivated. One foot in front of the other!
