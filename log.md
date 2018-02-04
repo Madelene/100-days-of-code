@@ -306,3 +306,19 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - Feeling a bit more motivated, today. After this python challenge, I want to learn NodeJS
+
+### Day 36: February 3, 2018 Saturday
+
+** Today's Progress**:
+- Read more and tried to get the command line argument to do something in python (still not able to connect the dots)
+
+**Thoughts:**
+- Feeling a bit unmotivated.
+
+### Day 37: February 4, 2018 Sunday
+
+** Today's Progress**:
+- Feeling motivated and focused and will give this Python challenge a real try!
+
+**Thoughts:**
+- Just arrived to a cafe with headphones. Here we go!
