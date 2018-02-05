@@ -319,6 +319,8 @@ went over pulling out data from an array of objects in Ruby.
 
 ** Today's Progress**:
 - Feeling motivated and focused and will give this Python challenge a real try!
+- Read through csv module docs. Wrote to a CSV!
 
 **Thoughts:**
 - Just arrived to a cafe with headphones. Here we go!
+- Felt like I made some progress. Learned a lot!
