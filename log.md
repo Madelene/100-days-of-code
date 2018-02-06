@@ -324,3 +324,12 @@ went over pulling out data from an array of objects in Ruby.
 **Thoughts:**
 - Just arrived to a cafe with headphones. Here we go!
 - Felt like I made some progress. Learned a lot!
+
+### Day 38: February 5, 2018 Monday
+
+** Today's Progress**:
+- Worked with the CSV Module in Python and got it to print the data to a new CSV! 
+- Had issue with unicode errors (next goal)
+
+**Thoughts:**
+- Progress today! One more step until this python challenge can be turned in!
