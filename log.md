@@ -333,3 +333,12 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - Progress today! One more step until this python challenge can be turned in!
+
+### Day 39: February 6, 2018 Tuesday
+
+** Today's Progress**:
+- THREE interviews. One with a company in Denver, one in North Carolina, and one with GE.
+- Did some reading on argparse module in Python
+
+**Thoughts:**
+- I hope I get some offers soon
