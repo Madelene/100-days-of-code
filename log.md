@@ -342,3 +342,11 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - I hope I get some offers soon
+
+### Day 40: February 7, 2018 Wednesday
+
+** Today's Progress**:
+- TAing at Wyncode. Worked with a student on classes in Ruby, and iterating through a hash and returning a dynamic string in the browser via a Sinatra server.
+
+**Thoughts:**
+- Learning every day!
