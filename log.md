@@ -350,3 +350,15 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - Learning every day!
+
+### Day 41: February 8, 2018 Thursday
+
+** Today's Progress**:
+- Attended the Data Science Salon. 
+- Learned about Dash framework for Python/data visualization
+- Had an impromptu interview and luncheon with Magic Leap
+- Learned how to program games in JavaScript using Phaser!
+
+
+**Thoughts:**
+- I love conferences. All in all, a good day!
