@@ -362,3 +362,12 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - I love conferences. All in all, a good day!
+
+### Day 42: February 9, 2018 Friday
+
+** Today's Progress**:
+- 3 more interviews (phone)
+- Taing at Wyncode
+
+**Thoughts:**
+- Am I in interview purgatory?
