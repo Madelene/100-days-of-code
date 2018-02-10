@@ -368,6 +368,7 @@ went over pulling out data from an array of objects in Ruby.
 ** Today's Progress**:
 - 3 more interviews (phone)
 - Helped students at Wyncode with their Rails projects
+- Created a game, based on last night's meetup, in JavaScript (using phaser.io)
 
 **Thoughts:**
 - Am I in interview purgatory?
