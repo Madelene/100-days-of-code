@@ -367,7 +367,8 @@ went over pulling out data from an array of objects in Ruby.
 
 ** Today's Progress**:
 - 3 more interviews (phone)
-- Taing at Wyncode
+- Helped students at Wyncode with their Rails projects
 
 **Thoughts:**
 - Am I in interview purgatory?
+- After helping a student with seed data, write a rake task, migrate a database, create a model, think about the data and how to extract it, I feel like I AM competent and hope to find a job very soon.
