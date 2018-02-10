@@ -373,3 +373,13 @@ went over pulling out data from an array of objects in Ruby.
 **Thoughts:**
 - Am I in interview purgatory?
 - After helping a student with seed data, write a rake task, migrate a database, create a model, think about the data and how to extract it, I feel like I AM competent and hope to find a job very soon.
+
+
+### Day 43: February 10, 2018 Saturday
+
+** Today's Progress**:
+- South Florida Free Code Camp 2018 (all day)
+
+**Thoughts:**
+- Went to an EXCELLENT JavaScript talk!
+- Also a UX/UI Design lecture
