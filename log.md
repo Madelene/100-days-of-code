@@ -379,7 +379,7 @@ went over pulling out data from an array of objects in Ruby.
 
 ** Today's Progress**:
 - South Florida Free Code Camp 2018 (all day)
+- Learned a lot about UX/UI Design, JavaScript, and networked a LOT
 
 **Thoughts:**
-- Went to an EXCELLENT JavaScript talk!
-- Also a UX/UI Design lecture
+- Today was exhausting, but very productive! I hope good comes out of it. 
