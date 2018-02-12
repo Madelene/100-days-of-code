@@ -383,3 +383,13 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - Today was exhausting, but very productive! I hope good comes out of it. 
+
+
+### Day 44: February 11, 2018 Sunday
+
+** Today's Progress**:
+- Followed up with the people I met, yesterday (and shipped off a few resumes)
+- I am determined to figure out the command line argument/conditional in python
+
+**Thoughts:**
+- I can't wait until I have another job. It will feel settling.
