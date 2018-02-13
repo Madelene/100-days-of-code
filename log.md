@@ -399,6 +399,7 @@ went over pulling out data from an array of objects in Ruby.
 ** Today's Progress**:
 - TAed at Wyncode. 
 - Went over some Python with Don. Still having trouble conditionally returning data via command line arguments.
+- Helped some students with git, GitHub, and merge conflicts
 
 **Thoughts:**
 - Trying to stay positive, but am getting a bit down about things.
