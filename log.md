@@ -403,3 +403,19 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - Trying to stay positive, but am getting a bit down about things.
+
+### Day 46: February 13, 2018 Tuesday
+
+** Today's Progress**:
+- 
+
+**Thoughts:**
+
+
+### Day 47: February 14, 2018 Wednesday
+
+** Today's Progress**:
+- Worked with a student on SQL, SQL syntax, and SQL with Sinatra
+
+**Thoughts:**
+- I am trying to remain positive. When I'm focused and immersed in code, I am fine and happy. 
