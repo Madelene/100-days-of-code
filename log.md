@@ -407,10 +407,10 @@ went over pulling out data from an array of objects in Ruby.
 ### Day 46: February 13, 2018 Tuesday
 
 ** Today's Progress**:
-- 
+- Built web scraper in Ruby
 
 **Thoughts:**
-
+- I wish I had a job. This is killing my spirit. 
 
 ### Day 47: February 14, 2018 Wednesday
 
@@ -418,4 +418,6 @@ went over pulling out data from an array of objects in Ruby.
 - Worked with a student on SQL, SQL syntax, and SQL with Sinatra
 
 **Thoughts:**
-- I am trying to remain positive. When I'm focused and immersed in code, I am fine and happy. 
+- I am trying to remain positive and focused.
+
+ 
