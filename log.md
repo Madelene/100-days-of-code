@@ -424,4 +424,9 @@ went over pulling out data from an array of objects in Ruby.
 ### Day 48: February 15, 2018 Thursday
 
 ** Today's Progress**:
--  
+- Pushed up the code that I had for the python challenge
+- Got the command line argument --save to only write to CSV with that flag!
+
+**Thoughts:**
+- I would like to properly learn Python. 
+- Took a coding assessment, and found that I am "proficient" in HTML5
