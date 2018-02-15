@@ -408,6 +408,7 @@ went over pulling out data from an array of objects in Ruby.
 
 ** Today's Progress**:
 - Built web scraper in Ruby
+- Had a coffee interview and talked JavaScript/React Native
 
 **Thoughts:**
 - I wish I had a job. This is killing my spirit. 
@@ -420,4 +421,7 @@ went over pulling out data from an array of objects in Ruby.
 **Thoughts:**
 - I am trying to remain positive and focused.
 
- 
+### Day 48: February 15, 2018 Thursday
+
+** Today's Progress**:
+-  
