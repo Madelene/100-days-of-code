@@ -430,3 +430,11 @@ went over pulling out data from an array of objects in Ruby.
 **Thoughts:**
 - I would like to properly learn Python. 
 - Took a coding assessment, and found that I am "proficient" in HTML5
+
+### Day 49: February 16, 2018 Friday
+
+** Today's Progress**:
+- Created a hello world app using python 3 and Django
+
+**Thoughts:**
+- Continuing on this python journey, it is good to learn about Django and see things working!
