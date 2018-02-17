@@ -434,7 +434,8 @@ went over pulling out data from an array of objects in Ruby.
 ### Day 49: February 16, 2018 Friday
 
 ** Today's Progress**:
-- Created a hello world app using python 3 and Django
+- Created a hello world app, and an app navigating to a Home and About page using Python 3 and Django
+- Learned about creating new virtual environments within each project
 
 **Thoughts:**
 - Continuing on this python journey, it is good to learn about Django and see things working!
