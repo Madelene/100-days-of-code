@@ -440,3 +440,11 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - Continuing on this python journey, it is good to learn about Django and see things working!
+
+### Day 50: February 17, 2018 Saturday
+
+** Today's Progress**:
+- Built a message board app in Python and Django. Used SQLite database in order to store and display posts from users. Wrote tests using TestCase (because we have a database. Static pages use SimpleTestCase). Built, Tested and Deployed a database-driven app in Django!
+
+**Thoughts:**
+- I am getting the hang of this!
