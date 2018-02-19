@@ -448,3 +448,19 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - I am getting the hang of this!
+
+### Day 51: February 18, 2018 Sunday
+
+** Today's Progress**:
+- Started building a blog (CRUD app) in Django and Python
+
+**Thoughts:**
+- Went to a cafe with Susan. It's nice to code with others!
+
+### Day 52: February 19, 2018 Monday
+
+** Today's Progress**:
+- TAed at Wyncode. Helped students with HTML and CSS mock-ups (bootstrap was not allowed!)
+
+**Thoughts:**
+- I actually know more about HTML and CSS than I realized! :)
