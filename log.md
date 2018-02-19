@@ -461,6 +461,7 @@ went over pulling out data from an array of objects in Ruby.
 
 ** Today's Progress**:
 - TAed at Wyncode. Helped students with HTML and CSS mock-ups (bootstrap was not allowed!)
+- Went to a talk on Stimulus, the new JS framework
 
 **Thoughts:**
 - I actually know more about HTML and CSS than I realized! :)
