@@ -465,3 +465,14 @@ went over pulling out data from an array of objects in Ruby.
 
 **Thoughts:**
 - I actually know more about HTML and CSS than I realized! :)
+
+### Day 53: February 20, 2018 Tuesday
+
+** Today's Progress**:
+- Interviewed at a company I would REALLY love to work with.
+- Finished the Django tutorial, and can now Create, Update, and Delete blog posts
+- Next step is writing tests and deploying
+
+**Thoughts:**
+- I need to practice getting better about organizing and speaking of my process. I believe this
+is holding me back in interviews. I AM competent, but it is difficult to articulate things, still.
