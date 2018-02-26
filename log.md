@@ -491,8 +491,11 @@ data in a Ruby on Rails app.
 ### Day 55: February 22, 2018 Thursday
 
 ** Today's Progress**:
--
+- TAed today (more one-on-ones)
+- Added method to sort via query string. Learned a lot about params coming in from query strings!
 
 **Thoughts:**
--
+- I've really enjoyed this challenge and am gaining confidence
+
+
 
