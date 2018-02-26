@@ -521,5 +521,15 @@ data in a Ruby on Rails app.
 **Thoughts:**
 - Sometimes it's good to socialize and learn from others
 
+### Day 59: February 26, 2018 Monday
+
+** Today's Progress**:
+- Wrote README for coding challenge
+- Plan to write more tests and practice going through/explaining the app for the interview tomorrow
+- TAing at Wyncode
+
+**Thoughts:**
+- Feeling confident and good about the interview tomorrow
+
 
 
