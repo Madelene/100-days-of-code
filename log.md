@@ -527,6 +527,7 @@ data in a Ruby on Rails app.
 - Wrote README for coding challenge
 - Plan to write more tests and practice going through/explaining the app for the interview tomorrow
 - TAing at Wyncode
+- Learned how to write rspec with external API
 
 **Thoughts:**
 - Feeling confident and good about the interview tomorrow
