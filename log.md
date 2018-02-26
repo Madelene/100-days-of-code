@@ -497,5 +497,11 @@ data in a Ruby on Rails app.
 **Thoughts:**
 - I've really enjoyed this challenge and am gaining confidence
 
+### Day 56: February 23, 2018 Friday
 
+** Today's Progress**:
+- Added error handling and tests to coding challenge
+
+**Thoughts:**
+- It feels good to complete something to spec and go above and beyond with this challenge!
 
