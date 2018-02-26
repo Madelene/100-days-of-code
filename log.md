@@ -530,6 +530,7 @@ data in a Ruby on Rails app.
 
 **Thoughts:**
 - Feeling confident and good about the interview tomorrow
+- GE also wants to interview me. Might be good to have options.
 
 
 
