@@ -476,3 +476,23 @@ went over pulling out data from an array of objects in Ruby.
 **Thoughts:**
 - I need to practice getting better about organizing and speaking of my process. I believe this
 is holding me back in interviews. I AM competent, but it is difficult to articulate things, still.
+
+### Day 54: February 21, 2018 Wednesday
+
+** Today's Progress**:
+- Worked on a coding challenge to pull top stories on the HackerNews API and return/manipulate
+data in a Ruby on Rails app.
+- TAed and did one-on-ones
+
+**Thoughts:**
+- Fun challenge!
+- I enjoy doing one-on-ones. They remind me of private music lessons :)
+
+### Day 55: February 22, 2018 Thursday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+-
+
