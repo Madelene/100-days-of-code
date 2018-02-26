@@ -482,7 +482,7 @@ is holding me back in interviews. I AM competent, but it is difficult to articul
 ** Today's Progress**:
 - Worked on a coding challenge to pull top stories on the HackerNews API and return/manipulate
 data in a Ruby on Rails app.
-- TAed and did one-on-ones
+- TAed and did one-on-ones. HTML/CSS mock-ups. I learned a LOT about structure and how to do a mock-up!
 
 **Thoughts:**
 - Fun challenge!
@@ -512,6 +512,14 @@ data in a Ruby on Rails app.
 
 **Thoughts:**
 - Taking it easy
+
+### Day 58: February 25, 2018 Sunday
+
+** Today's Progress**:
+- Nerded out with Susan over code
+
+**Thoughts:**
+- Sometimes it's good to socialize and learn from others
 
 
 
