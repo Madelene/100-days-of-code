@@ -505,3 +505,13 @@ data in a Ruby on Rails app.
 **Thoughts:**
 - It feels good to complete something to spec and go above and beyond with this challenge!
 
+### Day 57: February 24, 2018 Saturday
+
+** Today's Progress**:
+- Wrote more tests
+
+**Thoughts:**
+- Taking it easy
+
+
+
