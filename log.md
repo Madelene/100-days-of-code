@@ -533,5 +533,13 @@ data in a Ruby on Rails app.
 - Feeling confident and good about the interview tomorrow
 - GE also wants to interview me. Might be good to have options.
 
+### Day 60: February 27, 2018 Tuesday
+
+** Today's Progress**:
+- Presented my coding challenge to BrightGauge and got an OFFER!
+
+**Thoughts:**
+- So so so so so happy!
+
 
 
