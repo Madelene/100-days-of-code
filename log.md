@@ -536,7 +536,7 @@ data in a Ruby on Rails app.
 ### Day 60: February 27, 2018 Tuesday
 
 ** Today's Progress**:
-- Presented my coding challenge to BrightGauge and got an OFFER!
+- Presented my coding challenge to BrightGauge and got an OFFER! (and accepted the offer)
 
 **Thoughts:**
 - So so so so so happy!
