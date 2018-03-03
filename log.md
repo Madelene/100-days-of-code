@@ -557,5 +557,12 @@ data in a Ruby on Rails app.
 **Thoughts:**
 - Breezed through the basics. Now, it's getting a bit trickier
 
+### Day 62: March 2, 2018 Friday
 
+** Today's Progress**:
+- Worked a bit on the Django blog (wrote some tests)
+- Helped a Wyncoder to link_to his delete path. We had trouble figuring out how to link without a helper, as well as the fact that the browser did not like the DELETE action (and wanted a GET instead)
+- Learned that another student was already logged into her app, which is why it could not find that user (the user was not in her database, but was cached in the app, somehow)
 
+**Thoughts:**
+- It is nice to have a million thoughts about how to figure things out, now.
