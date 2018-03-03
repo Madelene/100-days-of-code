@@ -541,5 +541,13 @@ data in a Ruby on Rails app.
 **Thoughts:**
 - So so so so so happy!
 
+### Day 61: February 28, 2018 Wednesday
+
+** Today's Progress**:
+- TAed at Wyncode. Did a one-on-one JavaScript "lesson" with a student, explaining core concepts
+
+**Thoughts:**
+- I enjoy mixing it up with Ruby, JavaScript, HTML and CSS when I TA at Wyncode
+
 
 
