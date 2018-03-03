@@ -549,5 +549,13 @@ data in a Ruby on Rails app.
 **Thoughts:**
 - I enjoy mixing it up with Ruby, JavaScript, HTML and CSS when I TA at Wyncode
 
+### Day 61: March 1, 2018 Thursday
+
+** Today's Progress**:
+- Started the SoloLearn Python lessons (on the app)
+
+**Thoughts:**
+- Breezed through the basics. Now, it's getting a bit trickier
+
 
 
