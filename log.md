@@ -611,8 +611,10 @@ data in a Ruby on Rails app.
 
 ** Today's Progress**:
 - Going to a meetup about TDD using Python
+- Learned about user authentication/authorization in Django
 
 **Thoughts:**
 - I don't think we'll test much at the job, but I feel like I can learn more about python by 
 going to this meetup!
+- I like how straightforward everything seems to be with python and django
 
