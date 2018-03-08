@@ -594,10 +594,10 @@ data in a Ruby on Rails app.
 ### Day 66: March 6, 2018 Tuesday
 
 ** Today's Progress**:
--
+- Took a day off and took it easy (had a biopsy)
 
 **Thoughts:**
--
+- On "days off", I generally read about code, or do the SoloLearn app. 
 
 ### Day 67: March 7, 2018 Wednesday
 
