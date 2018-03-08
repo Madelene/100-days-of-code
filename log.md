@@ -570,26 +570,26 @@ data in a Ruby on Rails app.
 ### Day 63: March 3, 2018 Saturday
 
 ** Today's Progress**:
--
+- SoloLearn app-python
 
 **Thoughts:**
--
+- So excited to have landed a *job*
 
 ### Day 64: March 4, 2018 Sunday
 
 ** Today's Progress**:
--
+- Spent the day with my parents. Read about coding/did some SoloLearn app.
 
 **Thoughts:**
--
+- No thoughts :)
 
 ### Day 65: March 5, 2018 Monday
 
 ** Today's Progress**:
--
+- Spent the day with my parents. Not much progress today.
 
 **Thoughts:**
--
+- Day off.
 
 ### Day 66: March 6, 2018 Tuesday
 
