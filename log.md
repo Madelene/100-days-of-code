@@ -566,3 +566,53 @@ data in a Ruby on Rails app.
 
 **Thoughts:**
 - It is nice to have a million thoughts about how to figure things out, now.
+
+### Day 63: March 3, 2018 Saturday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+-
+
+### Day 64: March 4, 2018 Sunday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+-
+
+### Day 65: March 5, 2018 Monday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+-
+
+### Day 66: March 6, 2018 Tuesday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+-
+
+### Day 67: March 7, 2018 Wednesday
+
+** Today's Progress**:
+- Spent the day doing the SoloLearn Python lessons
+
+**Thoughts:**
+- Python seems intuitive! I'm really enjoying it.
+
+### Day 68: March 8, 2018 Thursday
+
+** Today's Progress**:
+- Going to a meetup about TDD using Python
+
+**Thoughts:**
+- I don't think we'll test much at the job, but I feel like I can learn more about python by 
+going to this meetup!
+
