@@ -618,3 +618,12 @@ data in a Ruby on Rails app.
 going to this meetup!
 - I like how straightforward everything seems to be with python and django
 
+### Day 69: March 9, 2018 Friday
+
+** Today's Progress**:
+- TAed at Wyncode. Helped a student with Omniauth/Facebook login
+- Learned how to create a branch based on a commit in git
+
+**Thoughts:**
+- Always learning something new!
+
