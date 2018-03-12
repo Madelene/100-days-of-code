@@ -627,3 +627,12 @@ going to this meetup!
 **Thoughts:**
 - Always learning something new!
 
+### Day 70: March 10, 2018 Saturday
+
+** Today's Progress**:
+- Did more sololearn/python
+- Met the team at a bbq	
+
+**Thoughts:**
+- I will be working with happy people..what a dream!
+
