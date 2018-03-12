@@ -636,3 +636,21 @@ going to this meetup!
 **Thoughts:**
 - I will be working with happy people..what a dream!
 
+### Day 71: March 11, 2018 Sunday
+
+** Today's Progress**:
+- Hung out with coders, but didn't do much coding
+
+**Thoughts:**
+- Break days are good :)
+
+### Day 72: March 12, 2018 Monday
+
+** Today's Progress**:
+- TAed and helped a student with Rails migrations
+- Helped another with CSRF token in Rails
+- Helped clarify associations in Rails to another student
+
+**Thoughts:**
+- I will miss TAing, but am excited to start the new job!
+
