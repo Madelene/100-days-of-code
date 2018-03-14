@@ -662,3 +662,12 @@ going to this meetup!
 **Thoughts:**
 - The progress is getting slower and slower, as the concepts are more difficult to grasp!
 
+### Day 73: March 14, 2018 Wednesday
+
+** Today's Progress**:
+- TAed at Wyncode
+- Finished djangoforbeginners tutorial/pushed to heroku
+
+**Thoughts:**
+- https://maddie-blog.herokuapp.com/
+
