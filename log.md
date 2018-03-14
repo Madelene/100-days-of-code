@@ -654,3 +654,11 @@ going to this meetup!
 **Thoughts:**
 - I will miss TAing, but am excited to start the new job!
 
+### Day 72: March 13, 2018 Tuesday
+
+** Today's Progress**:
+- SoloLearn Python lessons
+
+**Thoughts:**
+- The progress is getting slower and slower, as the concepts are more difficult to grasp!
+
