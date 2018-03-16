@@ -679,5 +679,12 @@ going to this meetup!
 **Thoughts:**
 - They all did very well!
 
+### Day 75: March 16, 2018 Friday
 
+** Today's Progress**:
+- My last day TAing at Wyncode (for the forseeable future)
+
+**Thoughts:**
+- TAing has taught me a lot, and I have helped a lot of students. However, I am VERY excited to start
+on my next chapter and have some substantial income/benefits :-)
 
