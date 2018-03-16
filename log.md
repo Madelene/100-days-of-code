@@ -671,3 +671,13 @@ going to this meetup!
 **Thoughts:**
 - https://maddie-blog.herokuapp.com/
 
+### Day 74: March 15, 2018 Thursday
+
+** Today's Progress**:
+- Went to Wyncode's 22nd Pitch Day/Night
+
+**Thoughts:**
+- They all did very well!
+
+
+
