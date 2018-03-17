@@ -691,3 +691,11 @@ modeling), how to work with images (displaying, resizing), reading gem documenta
 on my next chapter and have some substantial income/benefits :-)
 - There were 2 women at Wyncode who asked me Rails-related questions all night long. It was rewarding, because I was able to help!
 
+### Day 76: March 17, 2018 Saturday
+
+** Today's Progress**:
+- Finished the Python 3 SoloLearn course and posted the certificate to LinkedIn
+
+**Thoughts:**
+- I am happy to have completed the course before my first day at BrightGauge!
+
