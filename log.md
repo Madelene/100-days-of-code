@@ -683,8 +683,11 @@ going to this meetup!
 
 ** Today's Progress**:
 - My last day TAing at Wyncode (for the forseeable future)
+- Worked with 2 ladies on their Rails projects. We spoke about databases, how to extract data (data
+modeling), how to work with images (displaying, resizing), reading gem documentation (Paperclip)
 
 **Thoughts:**
 - TAing has taught me a lot, and I have helped a lot of students. However, I am VERY excited to start
 on my next chapter and have some substantial income/benefits :-)
+- There were 2 women at Wyncode who asked me Rails-related questions all night long. It was rewarding, because I was able to help!
 
