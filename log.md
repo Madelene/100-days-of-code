@@ -716,4 +716,13 @@ on my next chapter and have some substantial income/benefits :-)
 **Thoughts:**
 - It is so nice and quiet in the office! I love it
 
+### Day 78: March 20, 2018 Tuesday
+
+** Today's Progress**:
+- First full day (started at 8:30am)
+- Paired with Brooke to add a "european" endpoint to the api, and update the Django form in the front
+
+**Thoughts:**
+- I can follow what she does and am looking forward to coding in python
+
 
