@@ -702,10 +702,10 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 76: March 18, 2018 Sunday
 
 ** Today's Progress**:
--
+- Totally relaxed and prepared for tomorrow's first day!
 
 **Thoughts:**
--
+- Excited to start work and learn Python!
 
 ### Day 77: March 19, 2018 Monday
 
