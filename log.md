@@ -699,3 +699,21 @@ on my next chapter and have some substantial income/benefits :-)
 **Thoughts:**
 - I am happy to have completed the course before my first day at BrightGauge!
 
+### Day 76: March 18, 2018 Sunday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+-
+
+### Day 77: March 19, 2018 Monday
+
+** Today's Progress**:
+- First day at BrightGauge!
+- Learned about BrightGauge, debugged a bit in python with Brooke, and learned about using Basecamp
+
+**Thoughts:**
+- It is so nice and quiet in the office! I love it
+
+
