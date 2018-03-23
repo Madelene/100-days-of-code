@@ -725,4 +725,28 @@ on my next chapter and have some substantial income/benefits :-)
 **Thoughts:**
 - I can follow what she does and am looking forward to coding in python
 
+### Day 79: March 21, 2018 Wednesday
+
+** Today's Progress**:
+- Set everything up at work and shadowed Brooke and she troubleshooted issues (in python)
+
+**Thoughts:**
+- She's a beast! Really efficient and smart. Very good mentor!
+
+### Day 80: March 22, 2018 Thursday
+
+** Today's Progress**:
+- Set up Sublime 3 settings on the new computer and reached out to my first client after troubleshooting external API issues
+
+**Thoughts:**
+- I can see myself getting better at this job. Love it.
+
+### Day 81: March 23, 2018 Friday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+- 
+
 
