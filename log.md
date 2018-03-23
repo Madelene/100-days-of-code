@@ -729,9 +729,11 @@ on my next chapter and have some substantial income/benefits :-)
 
 ** Today's Progress**:
 - Set everything up at work and shadowed Brooke and she troubleshooted issues (in python)
+- Purchased Deep Work (was able to expense it)
 
 **Thoughts:**
 - She's a beast! Really efficient and smart. Very good mentor!
+- I am very familiar with Deep Work, as a concept, after being a professional musician for so many years! Playing 3-5 hour long operas is, by definition, "Deep Work"
 
 ### Day 80: March 22, 2018 Thursday
 
@@ -744,9 +746,9 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 81: March 23, 2018 Friday
 
 ** Today's Progress**:
--
+- Went through Brooke's Infusionsoft onboarding/creation via her PRs on GitHub, and looking through the code on web and api/v2
 
 **Thoughts:**
-- 
+- I know I've only been here for a week, but I think I'll be able to succeed in this job. Especially, since everyone is so helpful and allow each other to go into "Deep Work"
 
 
