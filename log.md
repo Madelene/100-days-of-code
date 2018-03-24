@@ -750,5 +750,6 @@ on my next chapter and have some substantial income/benefits :-)
 
 **Thoughts:**
 - I know I've only been here for a week, but I think I'll be able to succeed in this job. Especially, since everyone is so helpful and allow each other to go into "Deep Work"
+- First day with a monitor...at HOME! YAY! :)
 
 
