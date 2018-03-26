@@ -760,4 +760,12 @@ on my next chapter and have some substantial income/benefits :-)
 **Thoughts:**
 - It is important to be in the zone when learning or practicing!
 
+### Day 83: March 25, 2018 Sunday
+
+** Today's Progress**:
+- DAY OFF!
+
+**Thoughts:**
+- I am so ready to give it my all, this week, at work! PYTHON!
+
 
