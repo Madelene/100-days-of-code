@@ -773,6 +773,7 @@ on my next chapter and have some substantial income/benefits :-)
 ** Today's Progress**:
 - Set up local environment and worked in Django/Python
 - Shadowed Brooke for her integration/creation of datasets (wrote SQL)
+- Read steps to build an integration and about OAuth2 integrations
 
  **Thoughts:**
 - I really do love this job, and can see myself being good at this!
