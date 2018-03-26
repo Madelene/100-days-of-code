@@ -752,4 +752,12 @@ on my next chapter and have some substantial income/benefits :-)
 - I know I've only been here for a week, but I think I'll be able to succeed in this job. Especially, since everyone is so helpful and allow each other to go into "Deep Work"
 - First day with a monitor...at HOME! YAY! :)
 
+### Day 82: March 24, 2018 Saturday
+
+** Today's Progress**:
+- Read some of the book Deep Work
+
+**Thoughts:**
+- It is important to be in the zone when learning or practicing!
+
 
