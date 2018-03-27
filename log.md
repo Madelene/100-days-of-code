@@ -783,6 +783,7 @@ on my next chapter and have some substantial income/benefits :-)
 ** Today's Progress**:
 - Looked into a 429 (too many requests) error on one of our APIs. There was a 600 requests a minute limit, so we thought to add a sleep in the request loop in order to try to delay time.
 - Went on a few walk and talks with the sales and development teammembers. Had a "how we market BG" talk with Jack, as well as a "who do we sell to and how do we sell to them" with Larry. Full day!
+- Learned that one of my Sublime packages was inserting lines of code upon save. Deleted that package!
 
 **Thoughts:**
 - This was my first solo task (week 2 at the job!)
