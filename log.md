@@ -784,7 +784,9 @@ on my next chapter and have some substantial income/benefits :-)
 - Looked into a 429 (too many requests) error on one of our APIs. There was a 600 requests a minute limit, so we thought to add a sleep in the request loop in order to try to delay time.
 - Went on a few walk and talks with the sales and development teammembers. Had a "how we market BG" talk with Jack, as well as a "who do we sell to and how do we sell to them" with Larry. Full day!
 - Learned that one of my Sublime packages was inserting lines of code upon save. Deleted that package!
+- Working on a kaseya integration: adding a datastore
 
 **Thoughts:**
 - This was my first solo task (week 2 at the job!)
 - Every time I look at the code in the app, things clarify a bit more
+- Not 100% clear on what adding a datastore entails, yet. I have some time to figure it out
