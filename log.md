@@ -777,3 +777,13 @@ on my next chapter and have some substantial income/benefits :-)
 
  **Thoughts:**
 - I really do love this job, and can see myself being good at this!
+
+### Day 85: March 27, 2018 Monday
+
+** Today's Progress**:
+- Looked into a 429 (too many requests) error on one of our APIs. There was a 600 requests a minute limit, so we thought to add a sleep in the request loop in order to try to delay time.
+- Went on a few walk and talks with the sales and development teammembers. Had a "how we market BG" talk with Jack, as well as a "who do we sell to and how do we sell to them" with Larry. Full day!
+
+**Thoughts:**
+- This was my first solo task (week 2 at the job!)
+- Every time I look at the code in the app, things clarify a bit more
