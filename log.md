@@ -778,7 +778,7 @@ on my next chapter and have some substantial income/benefits :-)
  **Thoughts:**
 - I really do love this job, and can see myself being good at this!
 
-### Day 85: March 27, 2018 Monday
+### Day 85: March 27, 2018 Tuesday
 
 ** Today's Progress**:
 - Looked into a 429 (too many requests) error on one of our APIs. There was a 600 requests a minute limit, so we thought to add a sleep in the request loop in order to try to delay time.
@@ -790,3 +790,16 @@ on my next chapter and have some substantial income/benefits :-)
 - This was my first solo task (week 2 at the job!)
 - Every time I look at the code in the app, things clarify a bit more
 - Not 100% clear on what adding a datastore entails, yet. I have some time to figure it out
+
+### Day 86: March 28, 2018 Wednesday
+
+** Today's Progress**:
+- Read about Understanding Retry Pattern
+- Got a new pair of headphones!
+- Familiarizing myself with the python shell in tasks vs web, adding datasources, and pulling them out in the shell (grabbing the object in order to work with it)
+- Went on a walk and talk with Dunia (a python programmer from Cuba) and Michael (has a cs degree, but is doing support at the moment)
+- Wrote my first Django database migration. This basically entails creating a method that adds what you'd like, and one to be able to remove. In the Migration class, the operations consist of running those 2 methods. I am trying to add an Accounts datastore to the Kaseya BMS integration, but it is currently not showing up in the datastores.
+- SO exciting. Was able to figure out how to generate an access token into the kaseya API, and then make a GET request to return all of the Accounts data (which is what I am trying to add)
+
+**Thoughts:**
+- I am enjoying the culture at the job, especially the walk and talks!
