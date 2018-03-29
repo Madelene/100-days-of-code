@@ -809,7 +809,12 @@ on my next chapter and have some substantial income/benefits :-)
 ** Today's Progress**:
 - The first thing I did was pull the latest from origin, so I had the most up-to-date code to work with (but worked off my branch)
 - Goal is to get the Kaseya BMS Accounts Datastore to show, so I can then create the datasets
-- Got the datastore to show up! I did this by cleaning up the migration (I had it doing much more than it needed to do), rerunning the migration, and then Brooke showed me how to confirm that the datastore was actually in the local db. I removed the datasource and re-added it. BOOM! Kaseya BMS Accounts was there! 
+- Got the datastore to show up! I did this by cleaning up the migration (I had it doing much more than it needed to do), rerunning the migration, and then Brooke showed me how to confirm that the datastore was actually in the local db. I removed the datasource and re-added it. BOOM! Kaseya BMS Accounts was there! (New datastore is created)
+- Next step is to filter for IsActive is true (in tasks code)
+- Now, I need to build the API Dataset - Built the API dataset and dataset! Needed to set the datatypes for each field, based on the API docs
+- Once there is a dataset, can then build a gauge
+- Pushed code up for core (the migration) and tasks (the code that calls the 3rd party API and gets the data) and tested the sync with a real customer's data (locally)
 
 **Thoughts:**
 - It was my "goal" to get the Kaseya BMS Accounts to show in the Datastores, before lunch. It's before 11am! Yay!
+- I would've never been able to do things as quickly if I hadn't shadowed Brooke prior
