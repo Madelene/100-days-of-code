@@ -803,3 +803,13 @@ on my next chapter and have some substantial income/benefits :-)
 
 **Thoughts:**
 - I am enjoying the culture at the job, especially the walk and talks!
+
+### Day 87: March 29, 2918 Thursday
+
+** Today's Progress**:
+- The first thing I did was pull the latest from origin, so I had the most up-to-date code to work with (but worked off my branch)
+- Goal is to get the Kaseya BMS Accounts Datastore to show, so I can then create the datasets
+- Got the datastore to show up! I did this by cleaning up the migration (I had it doing much more than it needed to do), rerunning the migration, and then Brooke showed me how to confirm that the datastore was actually in the local db. I removed the datasource and re-added it. BOOM! Kaseya BMS Accounts was there! 
+
+**Thoughts:**
+- It was my "goal" to get the Kaseya BMS Accounts to show in the Datastores, before lunch. It's before 11am! Yay!
