@@ -814,7 +814,17 @@ on my next chapter and have some substantial income/benefits :-)
 - Now, I need to build the API Dataset - Built the API dataset and dataset! Needed to set the datatypes for each field, based on the API docs
 - Once there is a dataset, can then build a gauge
 - Pushed code up for core (the migration) and tasks (the code that calls the 3rd party API and gets the data) and tested the sync with a real customer's data (locally)
+- Merged my Core and Task PRs into dev and onboarded the Kaseya BMS datasource on QA. Made a PR from dev to production!
 
 **Thoughts:**
 - It was my "goal" to get the Kaseya BMS Accounts to show in the Datastores, before lunch. It's before 11am! Yay!
 - I would've never been able to do things as quickly if I hadn't shadowed Brooke prior
+- My teammates told me they gave me that task, and planned on it taking me 2 weeks. It only took me 2 days! :)
+
+### Day 88: March 30, 2018 Friday
+
+** Today's Progress**:
+- Gained Super User access to the BrightGauge app (so I will be able to create datasets in production)
+
+**Thoughts:**
+- The better I am at something (in music or otherwise), the more comfortable I am to be myself and joke around. That's such a nice feeling :)
