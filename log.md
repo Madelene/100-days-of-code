@@ -824,7 +824,15 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 88: March 30, 2018 Friday
 
 ** Today's Progress**:
-- Gained Super User access to the BrightGauge app (so I will be able to create datasets in production)
+- Gained Super User access to the BrightGauge app (I will be able to create datasets in production)
+- Built an API Dataset
+- Distributed the dataset as default
+- Added Accounts as a LEFT JOIN in the SQL for Ticket Statistics and Ticket Stats Lite
+- Made a Pull Request (Randall approved it and merged it into Master)
+- Copied another gauge and made a copy of it, in order to showcase this new field (Saved first/Created NEW)
+- Made that gauge active and then distributed it (but did not distribute it to the one account that was diverged)
 
 **Thoughts:**
 - The better I am at something (in music or otherwise), the more comfortable I am to be myself and joke around. That's such a nice feeling :)
+- Randall and Brooke explain things very well. I am lucky to be on this team, and think it's a good fit for me!!
+- Very glad it is Friday, because I'm tired today and am having a little bit of trouble focusing. 
