@@ -861,6 +861,8 @@ on my next chapter and have some substantial income/benefits :-)
 - Updated and added connectwise on premise SQL in brightgauge-datasets repo (updated by making sure the SQL was yelling at us). Learned that we do not update datasets if they are custom (didn't need to do that)
 - Wrote a task to add the 'service/boards' endpoint to the ConnectWise API. Waiting on credentials from a real customer in order to test this task.
 - Read through ConnectWise developer docs
+- Read more of Deep Work
+- Read through Overview of Cycles, Current Cycle Announcement, Pitches, Cycle Planning and Team Organization In Cycle Workflow in preparation for Orly's "How we build software" tomorrow
 
 **Thoughts:**
 - Back to focusing! Horray for the weekend! :)
