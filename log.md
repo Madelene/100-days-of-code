@@ -863,5 +863,5 @@ on my next chapter and have some substantial income/benefits :-)
 - Read through ConnectWise developer docs
 
 **Thoughts:**
-- 
+- Back to focusing! Horray for the weekend! :)
 
