@@ -856,7 +856,11 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 91: April 2, 2018 Monday
 
 ** Today's Progress**:
--
+- Had some trouble running my local environment in order to debug. Remembered that I needed to have vagrant up, so per the error message, I ran vagrant global-status, found the id, and ran vagrant up with that id. Restarted the tasks, server and web and it worked!
+- Started a new task that included grabbing specific data (to grab an oncallMember, which is referenced through another endpoint)
+- Updated and added connectwise on premise SQL in brightgauge-datasets repo (updated by making sure the SQL was yelling at us). Learned that we do not update datasets if they are custom (didn't need to do that)
+- Wrote a task to add the 'service/boards' endpoint to the ConnectWise API. Waiting on credentials from a real customer in order to test this task.
+- Read through ConnectWise developer docs
 
 **Thoughts:**
 - 
