@@ -836,3 +836,28 @@ on my next chapter and have some substantial income/benefits :-)
 - The better I am at something (in music or otherwise), the more comfortable I am to be myself and joke around. That's such a nice feeling :)
 - Randall and Brooke explain things very well. I am lucky to be on this team, and think it's a good fit for me!!
 - Very glad it is Friday, because I'm tired today and am having a little bit of trouble focusing. 
+
+### Day 89: March 31, 2018 Saturday
+
+** Today's Progress**:
+- Day Off!
+
+**Thoughts:**
+- Yay!
+
+### Day 90: April 1, 2018 Sunday
+
+** Today's Progress**:
+- Day Off!
+
+**Thoughts:**
+- Yay!
+
+### Day 91: April 2, 2018 Monday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+- 
+
