@@ -877,4 +877,5 @@ on my next chapter and have some substantial income/benefits :-)
 
 **Thoughts:**
 - "Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-in goals, feedback rules, and challenges, all of which encourage one to become involved in one's work, to concentrate and lose oneself in it. Free time, on the other hand, is unstructured, and requires much greater effort to be shaped into something that can be enjoyed."
+- "Great creative minds think like artists but work like accountants"
 
