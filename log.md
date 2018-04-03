@@ -867,3 +867,12 @@ on my next chapter and have some substantial income/benefits :-)
 **Thoughts:**
 - Back to focusing! Horray for the weekend! :)
 
+### Day 92: April 3, 2018 Tuesday
+
+** Today's Progress**:
+- Met with Orlando and Julie. He explained "How We Write Software"
+- Read more Deep Work
+
+**Thoughts:**
+- "Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-in goals, feedback rules, and challenges, all of which encourage one to become involved in one's work, to concentrate and lose oneself in it. Free time, on the other hand, is unstructured, and requires much greater effort to be shaped into something that can be enjoyed."
+
