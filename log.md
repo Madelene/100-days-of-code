@@ -870,7 +870,7 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 92: April 3, 2018 Tuesday
 
 ** Today's Progress**:
-- Met with Orlando and Julie. He explained "How We Write Software"
+- Met with Orlando and Julie. He explained "How We Build Software"
 - Read more Deep Work
 - Had a Starbucks walk-and-talk with Randall and Kiki
 - Had a parking lot walk-and-talk with Ashley and Jack
@@ -879,3 +879,11 @@ on my next chapter and have some substantial income/benefits :-)
 - "Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-in goals, feedback rules, and challenges, all of which encourage one to become involved in one's work, to concentrate and lose oneself in it. Free time, on the other hand, is unstructured, and requires much greater effort to be shaped into something that can be enjoyed."
 - "Great creative minds think like artists but work like accountants"
 
+### Day 93: April 4, 2018 Wednesday
+
+** Today's Progress**:
+- Worked through a view dataset with Randall, joining various tables in order to build a dataset that included expense data for a customer. 
+- Started the SQL course on Codecademy
+
+**Thoughts:**
+- I enjoyed learning some SQL at Wyncode, and am happy to dive deeper. It seems like a lot of people at BrightGauge know it! Another cool skill to have in my toolbox!
