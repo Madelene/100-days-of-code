@@ -887,3 +887,4 @@ on my next chapter and have some substantial income/benefits :-)
 
 **Thoughts:**
 - I enjoyed learning some SQL at Wyncode, and am happy to dive deeper. It seems like a lot of people at BrightGauge know it! Another cool skill to have in my toolbox!
+- Knowing Rails/Active Record helps immensely with SQL
