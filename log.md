@@ -893,7 +893,7 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 94: April 5, 2018 Thursday
 
 ** Today's Progress**:
--
+- Went through the SQL course on Codecademy
 
 **Thoughts:**
-- 
+- Maybe because of the late night at work (with the meeting), or because I'm tired. Had a difficult time focusing today!
