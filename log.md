@@ -884,8 +884,16 @@ on my next chapter and have some substantial income/benefits :-)
 ** Today's Progress**:
 - Worked through a view dataset with Randall, joining various tables in order to build a dataset that included expense data for a customer. 
 - Started the SQL course on Codecademy
-- Developer's meetup in the PM
+- Developer's meetup in the PM (we discussed some interesting topics, including a Stack Overflow survey of developers, Data is Beautiful on Reddit, and the merits of Ruby over Python or vice versa)
 
 **Thoughts:**
 - I enjoyed learning some SQL at Wyncode, and am happy to dive deeper. It seems like a lot of people at BrightGauge know it! Another cool skill to have in my toolbox!
 - Knowing Rails/Active Record helps immensely with SQL
+
+### Day 94: April 5, 2018 Thursday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+- 
