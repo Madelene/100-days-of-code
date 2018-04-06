@@ -903,7 +903,9 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 95: April 6, 2018 Friday
 
 ** Today's Progress**:
--
+- Brooke gave me more SQL learning resources: sqlbolt.com
 
 **Thoughts:**
--
+- It's really cool that I will know one more programming language and hopefully be proficient in it (and then python as well!)
+- Had a walk and talk with Nat and Derek
+- Brian gave his history and values of BrightGauge talk (interesting!)
