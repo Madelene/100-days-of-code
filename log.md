@@ -893,9 +893,17 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 94: April 5, 2018 Thursday
 
 ** Today's Progress**:
-- Went through more of the SQL course on Codecademy
+- Went through more of the SQL course on Codecademy (and completed the course)
 - Had a walk and talk with Jose and Sean (in the parking lot)
 - Had a meeting with Kiki, who spoke about "How we ensure customer success", and explained more about the BrightGauge app and how it works (very helpful!)
 
 **Thoughts:**
 - Maybe because of the late night at work (with the meeting), or because I'm tired. Had a difficult time focusing today!
+
+### Day 95: April 6, 2018 Friday
+
+** Today's Progress**:
+-
+
+**Thoughts:**
+-
