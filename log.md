@@ -909,3 +909,12 @@ on my next chapter and have some substantial income/benefits :-)
 - It's really cool that I will know one more programming language and hopefully be proficient in it (and then python as well!)
 - Had a walk and talk with Nat and Derek
 - Brian gave his history and values of BrightGauge talk (interesting!)
+
+### Day 96: April 7, 2018 Saturday
+
+** Today's Progress**:
+- Read some Deep Work (not much)
+- Day off!
+
+**Thoughts:**
+- Resetting both mind and body
