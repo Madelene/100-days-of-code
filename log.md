@@ -918,3 +918,12 @@ on my next chapter and have some substantial income/benefits :-)
 
 **Thoughts:**
 - Resetting both mind and body
+
+### Day 97: April 8, 2018 Sunday
+
+** Today's Progress**:
+- Read a bit
+
+**Thoughts:**
+- Ready for the work week/refreshed!
+
