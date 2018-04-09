@@ -933,6 +933,7 @@ on my next chapter and have some substantial income/benefits :-)
 - Wrote a task to pull in JournalEntry data from Quickbooks API
 - Not quite sure how to test, yet
 - Learned about timedelta in python
+- Had my first Rambo meeting - very encouraging!
 
 **Thoughts:**
-- 
+- I am grateful I got into this company at this point in time! Timing is everything :)
