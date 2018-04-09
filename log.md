@@ -927,3 +927,12 @@ on my next chapter and have some substantial income/benefits :-)
 **Thoughts:**
 - Ready for the work week/refreshed!
 
+### Day 98: April 9, 2018 Monday
+
+** Today's Progress**:
+- Wrote a task to pull in JournalEntry data from Quickbooks API
+- Not quite sure how to test, yet
+- Learned about timedelta in python
+
+**Thoughts:**
+- 
