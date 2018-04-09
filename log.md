@@ -931,6 +931,8 @@ on my next chapter and have some substantial income/benefits :-)
 
 ** Today's Progress**:
 - Wrote a task to pull in JournalEntry data from Quickbooks API
+and a migration. Refactored the migration and am working on refactoring the task.
+Having some difficulty with filtering
 - Not quite sure how to test, yet
 - Learned about timedelta in python
 - Had my first Rambo meeting - very encouraging!
