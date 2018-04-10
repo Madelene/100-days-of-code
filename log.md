@@ -944,6 +944,7 @@ Having some difficulty with filtering
 
 ** Today's Progress**:
 - Refactored journalentry task for QuickBooks. Still getting authentication errors; not sure if the method, itself, works!
+- Released a migration and task for JournalEntries into QA and Production. It bombed because I misnamed the task pathname in the migration. Fixed the bug, got another bug on an optional param. Ended up making that a param that is needed. All good. Released to QA, tested, released to prod, tested. Now, on to making the dataset!
 
 **Thoughts:**
 - It is somewhat difficult to verify if something works. I suspect if data is returned, then it "works"
