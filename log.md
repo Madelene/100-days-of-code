@@ -939,3 +939,11 @@ Having some difficulty with filtering
 
 **Thoughts:**
 - I am grateful I got into this company at this point in time! Timing is everything :)
+
+### Day 99: April 10, 2018 Tuesday
+
+** Today's Progress**:
+- Refactored journalentry task for QuickBooks. Still getting authentication errors; not sure if the method, itself, works!
+
+**Thoughts:**
+- It is somewhat difficult to verify if something works. I suspect if data is returned, then it "works"
