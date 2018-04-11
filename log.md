@@ -948,3 +948,13 @@ Having some difficulty with filtering
 
 **Thoughts:**
 - It is somewhat difficult to verify if something works. I suspect if data is returned, then it "works"
+
+### Day 100: April 11, 2018 Wednesday
+
+** Today's Progress**:
+- Learned more about API vs VIEW datasets
+- Paired with Brooke on iterating through a list of objects in the returned data object. I know how I'd do it in Ruby, and it was really straightforward/made sense in Python as well!
+
+**Thoughts:**
+- I really like how explicit the Python language is!
+
