@@ -954,6 +954,7 @@ Having some difficulty with filtering
 ** Today's Progress**:
 - Learned more about API vs VIEW datasets
 - Paired with Brooke on iterating through a list of objects in the returned data object. I know how I'd do it in Ruby, and it was really straightforward/made sense in Python as well!
+- Worked on the view dataset (SQL). Currently joining in another table in order to display more information
 
 **Thoughts:**
 - I really like how explicit the Python language is!
