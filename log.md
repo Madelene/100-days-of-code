@@ -967,6 +967,7 @@ Having some difficulty with filtering
 - Read more Deep Work. Received Competing with Luck, but won't start that until this one
 is finished
 - Did my first code review on GitHub...ever!
+- Working my way through the sqlbolt.com interactive tutorial
 
 **Thoughts:**
 - Today was calm, but I feel like I got things done. The way it should be!
