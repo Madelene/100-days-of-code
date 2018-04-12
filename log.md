@@ -966,6 +966,7 @@ Having some difficulty with filtering
 - Joined one table into another with SQL and tested (it worked!). Used aliases as well.
 - Read more Deep Work. Received Competing with Luck, but won't start that until this one
 is finished
+- Did my first code review on GitHub...ever!
 
 **Thoughts:**
 - Today was calm, but I feel like I got things done. The way it should be!
