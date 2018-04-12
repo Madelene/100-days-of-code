@@ -959,3 +959,14 @@ Having some difficulty with filtering
 **Thoughts:**
 - I really like how explicit the Python language is!
 
+### R2 Day 1: April 12, 2018 Tuesday
+
+** Today's Progress**:
+- Last night, I saw Valeri Karpov speak at Wyncode (inventor of the MEAN stack)
+- Joined one table into another with SQL and tested (it worked!). Used aliases as well.
+- Read more Deep Work. Received Competing with Luck, but won't start that until this one
+is finished
+
+**Thoughts:**
+- 
+
