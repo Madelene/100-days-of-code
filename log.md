@@ -976,7 +976,9 @@ is finished
 
 ** Today's Progress**:
 - Built a gauge and saved as default (paired with someone who really knows how to do this well!)
+- Starting on writing another task/migration for a different dataset! The more practice, the "easier" it will be when I start my own integration from start to finish!
 
 **Thoughts:**
 - I need to learn more about financial data in order to build more effective gauges for customers!
+- I really like the sleuth aspect of this job; always figuring out these little puzzles
 
