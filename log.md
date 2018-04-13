@@ -959,7 +959,7 @@ Having some difficulty with filtering
 **Thoughts:**
 - I really like how explicit the Python language is!
 
-### R2 Day 1: April 12, 2018 Tuesday
+### R2 Day 1: April 12, 2018 Thursday
 
 ** Today's Progress**:
 - Last night, I saw Valeri Karpov speak at Wyncode (inventor of the MEAN stack)
@@ -971,4 +971,12 @@ is finished
 
 **Thoughts:**
 - Today was calm, but I feel like I got things done. The way it should be!
+
+### R2 Day 2: April 13, 2018 Friday
+
+** Today's Progress**:
+- Built a gauge and saved as default (paired with someone who really knows how to do this well!)
+
+**Thoughts:**
+- I need to learn more about financial data in order to build more effective gauges for customers!
 
