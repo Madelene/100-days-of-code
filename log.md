@@ -981,4 +981,3 @@ is finished
 **Thoughts:**
 - I need to learn more about financial data in order to build more effective gauges for customers!
 - I really like the sleuth aspect of this job; always figuring out these little puzzles
-
