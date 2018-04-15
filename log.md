@@ -989,3 +989,11 @@ is finished
 
 **Thoughts:**
 - The required reading not only applies to this new job, but to seeking a better quality of life! I really appreciate that!
+
+### R2 Day 4: April 15, 2018 Sunday
+
+** Today's Progress**
+- Read some Competing Against Luck by Clayton M. Christensen
+
+**Thoughts:**
+- Day off. Might work on Mom's app!
