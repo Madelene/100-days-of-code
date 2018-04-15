@@ -981,3 +981,11 @@ is finished
 **Thoughts:**
 - I need to learn more about financial data in order to build more effective gauges for customers!
 - I really like the sleuth aspect of this job; always figuring out these little puzzles
+
+### R2 Day 3: April 14, 2018 Saturday
+
+** Today's Progress**
+- I walked to Whole Foods and read more Deep Work - almost done!
+
+**Thoughts:**
+- The required reading not only applies to this new job, but to seeking a better quality of life! I really appreciate that!
