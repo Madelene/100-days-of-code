@@ -994,6 +994,15 @@ is finished
 
 ** Today's Progress**
 - Read some Competing Against Luck by Clayton M. Christensen
+- Joined Pythondev slack channel/community
 
 **Thoughts:**
 - Day off. Might work on Mom's app!
+
+### R2 Day 5: April 16, 2018 Monday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+- 
