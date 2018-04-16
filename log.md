@@ -1007,3 +1007,4 @@ is finished
 
 **Thoughts:**
 - Learned more about try/except and the .get method in Python!
+- "A commitment to deep work is not a moral stance and it's not a philosophical statement - it is instead a pragmatic recognition that the ability to concentrate is a skill that gets valuable things done." - Deep Work
