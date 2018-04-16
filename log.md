@@ -1003,6 +1003,7 @@ is finished
 
 ** Today's Progress**
 - Fixed a KeyError. One of the ids can always be found, but added a try/except to check for another version of id. If that wasn't found, it would default to an empty string. (using the .get method)
+- Learned the difference between continue and pass in a function. Continue will break from the current iteration and go to the next one. Pass will keep going in the function.
 
 **Thoughts:**
 - Learned more about try/except and the .get method in Python!
