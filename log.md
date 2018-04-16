@@ -1002,7 +1002,7 @@ is finished
 ### R2 Day 5: April 16, 2018 Monday
 
 ** Today's Progress**
--
+- Fixed a KeyError. One of the ids can always be found, but added a try/except to check for another version of id. If that wasn't found, it would default to an empty string. (using the .get method)
 
 **Thoughts:**
-- 
+- Learned more about try/except and the .get method in Python!
