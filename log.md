@@ -1010,3 +1010,13 @@ is finished
 **Thoughts:**
 - Learned more about try/except and the .get method in Python!
 - "A commitment to deep work is not a moral stance and it's not a philosophical statement - it is instead a pragmatic recognition that the ability to concentrate is a skill that gets valuable things done." - Deep Work
+
+### R2 Day 6: April 17, 2018 Tuesday
+
+** Today's Progress**
+- Confirmed the basic workflow for adding data to the app. 
+- Read a bit of Competing With Luck (next book to finish)
+
+**Thoughts:**
+- This book isn't as interesting, so far, as Deep Work, but I'll give it a chance! Both books are relevant to optimizing our lives as well as the product we're working on. 
+
