@@ -1016,6 +1016,7 @@ is finished
 ** Today's Progress**
 - Confirmed the basic workflow for adding data to the app. 
 - Read a bit of Competing With Luck (next book to finish)
+- Randall showed me an edge case, full of complex SQL. It's fascinating to know what this querying language can do!
 
 **Thoughts:**
 - This book isn't as interesting, so far, as Deep Work, but I'll give it a chance! Both books are relevant to optimizing our lives as well as the product we're working on. 
