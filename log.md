@@ -1029,7 +1029,7 @@ is finished
 - Read about OAuth 2.0
 
 **Thoughts:**
-- 
+- Read a lot today!
 
 
 
