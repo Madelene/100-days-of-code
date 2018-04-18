@@ -1021,3 +1021,15 @@ is finished
 **Thoughts:**
 - This book isn't as interesting, so far, as Deep Work, but I'll give it a chance! Both books are relevant to optimizing our lives as well as the product we're working on. 
 
+### R2 Day 7: April 18, 2018 Wednesday
+
+** Today's Progress**
+- Read some of Competing Against Luck by Clayton M. Cristensen
+- Read through my integration for the next full cycle. Watched YouTube videos about the product I will be integrating, as well as read through docs (on Basecamp and product docs)
+- Read about OAuth 2.0
+
+**Thoughts:**
+- 
+
+
+
