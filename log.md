@@ -1031,5 +1031,15 @@ is finished
 **Thoughts:**
 - Read a lot today!
 
+### R2 Day 8: April 19, 2018 Thursday
+
+** Today's Progress**
+- Squashed a bug by adding a default value/empty list, so the code does not try to iterate over "None"
+- Made a gauge I built active and distributed it to clients who have that datasource/dataset!
+
+**Thoughts:**
+-
+
+
 
 
