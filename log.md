@@ -1037,6 +1037,7 @@ is finished
 - Squashed a bug by adding a default value/empty list, so the code does not try to iterate over "None"
 - Made a gauge I built active and distributed it to clients who have that datasource/dataset!
 - Getting more comfortable testing in the python shell
+- I plan on going to a React Mobile Chat App Meetup tonight!
 
 **Thoughts:**
 - I do like python! I just wish I knew it better. Little by little!
