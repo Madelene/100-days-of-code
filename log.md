@@ -1046,10 +1046,10 @@ is finished
 ### R2 Day 9: April 20, 2018 Friday
 
 ** Today's Progress**
--
+- Deployed my task and migration to QA and tested
 
 **Thoughts:**
-- 
+- Feeling a bit more comfortable with the flow of grabbing data from a third party API and displaying it!
 
 
 
