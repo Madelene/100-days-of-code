@@ -1047,10 +1047,11 @@ is finished
 
 ** Today's Progress**
 - Deployed my task and migration to QA and tested
+- Was given access to the production environment! Deployed and migrated!
 
 **Thoughts:**
 - Feeling a bit more comfortable with the flow of grabbing data from a third party API and displaying it!
-- Competing Against Luck reminds me of a Ted Talk I saw on YouTube about "finding the Why" in your purpose.
+- Competing Against Luck reminds me of a Ted Talk I saw on YouTube about "Start with Why" by Simon Sinek. The author seems to think like an engineer when speaking about his Jobs Theory. Circumstances around this need for progress are essential! (Context is everything)
 
 
 
