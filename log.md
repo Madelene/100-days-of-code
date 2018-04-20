@@ -1041,6 +1041,15 @@ is finished
 
 **Thoughts:**
 - I do like python! I just wish I knew it better. Little by little!
+- The React Native/Mobile Chat App meetup went very fast (I was able to follow along, but felt bad for those who couldn't! Not sure if I got much out of it, to be honest. A tutorial would've sufficed! It was fun to get the mobile chat app up and running, and use it via web sockets)
+
+### R2 Day 9: April 20, 2018 Friday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+- 
 
 
 
