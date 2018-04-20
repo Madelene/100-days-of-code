@@ -1050,6 +1050,7 @@ is finished
 
 **Thoughts:**
 - Feeling a bit more comfortable with the flow of grabbing data from a third party API and displaying it!
+- Competing Against Luck reminds me of a Ted Talk I saw on YouTube about "finding the Why" in your purpose.
 
 
 
