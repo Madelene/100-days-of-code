@@ -1072,10 +1072,12 @@ is finished
 ### R2 Day 12: April 23, 2018 Monday
 
 ** Today's Progress**
--
+- Worked with Sketch and logos!
+- Learned more about finding base URL info in documentation (to create access tokens, etc)
+- Started my first integration!
 
 **Thoughts:**
--
+- I learned a lot about initializing a datasource into our app
 
 
 
