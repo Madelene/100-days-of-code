@@ -1053,6 +1053,30 @@ is finished
 - Feeling a bit more comfortable with the flow of grabbing data from a third party API and displaying it!
 - Competing Against Luck reminds me of a Ted Talk I saw on YouTube about "Start with Why" by Simon Sinek. The author seems to think like an engineer when speaking about his Jobs Theory. Circumstances around this need for progress are essential! (Context is everything)
 
+### R2 Day 10: April 21, 2018 Saturday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
+### R2 Day 11: April 22, 2018 Sunday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
+### R2 Day 12: April 23, 2018 Monday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
 
 
 
