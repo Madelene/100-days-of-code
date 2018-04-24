@@ -1073,12 +1073,21 @@ is finished
 
 ** Today's Progress**
 - Worked with Sketch and logos!
-- Learned more about finding base URL info in documentation (to create access tokens, etc)
-- Started my first integration
+- Learned more about finding base URL info from third party APIs in documentation (to create access tokens, etc)
 - Gulp was compiling my Haml code into HTML, but stripping out indentations. Figured out that I had more than one version of Haml, and the compiler was reading the latest. When I uninstalled that version, all was well with the world.
 
 **Thoughts:**
 - I learned a lot about initializing a datasource into our app
+
+### R2 Day 13: April 24, 2018 Tuesday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
+
 
 
 
