@@ -1082,10 +1082,10 @@ is finished
 ### R2 Day 13: April 24, 2018 Tuesday
 
 ** Today's Progress**
--
+- Learned about authentication flow within our app and third party APIs
 
 **Thoughts:**
--
+- I am enjoying the process of getting to know the documentation and integrating this third party API into our app
 
 
 
