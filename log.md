@@ -1104,9 +1104,12 @@ my actual name, rather than my Mac Computer name being 'brightgauge'
 - Re-set up Sublime, git, bash profile settings, etc.
 - Learned some dev ops (minimal/Cassandra)
 - Experienced my first call on Slack (with a teammate)
+- Had a GoToMeeting with a customer about the integration
 
 **Thoughts:**
 - My local database is still a bit borked, but Sublime and iterm are optimal!
+- I am glad that meetings are not the "normal thing", here. That being said, the
+meeting went well.
 
 
 
