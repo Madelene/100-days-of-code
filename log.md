@@ -2,8 +2,8 @@
 
 ### Day 0: December 29, 2017, Friday
 
-**Today's Progress**: 
-- I helped a group push their final project app onto Heroku (I am a TA at Wyncode Academy) 
+**Today's Progress**:
+- I helped a group push their final project app onto Heroku (I am a TA at Wyncode Academy)
 - Working my way through Part 3 of this tutorial: https://evilmartians.com/chronicles/evil-front-part-3
 - My goal is to finish this tutorial
 
@@ -64,7 +64,7 @@ Turbolinks, as well as get around not using Sprockets
 - Helped another student model their data for an upcoming project
 - Learned about GitLab Workhorse
 
-**Thoughts:** Cohort 20 left me a "thank you" note for TAing their cohort. Very cool! 
+**Thoughts:** Cohort 20 left me a "thank you" note for TAing their cohort. Very cool!
 
 ### Day 8: January 6, 2018, Saturday
 
@@ -87,16 +87,16 @@ Turbolinks, as well as get around not using Sprockets
 ** Today's Progress** :
 - TAed at Wyncode. Helped a student push to production/Heroku
 - Figured out that another student was deleting items from the database (had bad data)
-- Taught a student the decent_exposure gem. 
+- Taught a student the decent_exposure gem.
 
 **Thoughts:** The first student had operating system/Ruby Version issues. We resolved it by using rbenv.
 
 ### Day 11: January 9, 2018, Tuesday
 
 ** Today's Progress** :
-- Making my way through the freeCodeCamp jQuery lessons. 
+- Making my way through the freeCodeCamp jQuery lessons.
 
-**Thoughts:** I remember, before attending Wyncode (over 2 years ago), learning about jQuery and understanding and liking it. 
+**Thoughts:** I remember, before attending Wyncode (over 2 years ago), learning about jQuery and understanding and liking it.
 
 ### Day 12: January 10, 2018, Wednesday
 
@@ -122,7 +122,7 @@ Turbolinks, as well as get around not using Sprockets
 - Styled the welcome page in CSS, instead of in the assets/javascript file (unnecessary!)
 - Will TA at Wyncode for a few hours today!
 
-**Thoughts:** It feels GOOD to be making some progress on this project. 
+**Thoughts:** It feels GOOD to be making some progress on this project.
 
 ### Day 15: January 13, 2018 Saturday
 
@@ -151,7 +151,7 @@ Turbolinks, as well as get around not using Sprockets
 ### Day 18: January 16, 2018 Tuesday
 
 ** Today's Progress**:
-- Partially designed index page. It's looking so cool!!! 
+- Partially designed index page. It's looking so cool!!!
 - Had a job interview with a screenshare - had to make tests pass (I did), and explain the code I changed and why (I felt like it went well)
 
 **Thoughts:** It's nice to build a project I will feel proud to show others
@@ -236,7 +236,7 @@ Turbolinks, as well as get around not using Sprockets
 ### Day 28: January 26, 2018 Friday
 
 ** Today's Progress**:
-- Working on a challenge in Python! 
+- Working on a challenge in Python!
 - Figured out how to install pip (I vaguely remember this from a Meetup I went to in Chicago, about 3 years ago)
 - Was able to run the script and view the data. Now, to tackle the challenge!
 - TAed at Wyncode. Helped someone with their JavaScript datepicker; got it to work!
@@ -255,7 +255,7 @@ Turbolinks, as well as get around not using Sprockets
 ### Day 30: January 28, 2018 Sunday
 
 ** Today's Progress**:
-- Still trying to display data to the screen using Python. 
+- Still trying to display data to the screen using Python.
 - Am able to display the list of IDs, but I need the data from those ID objects.
 - Tried the challenge in Ruby, to get a feel for what needs to get done.
 
@@ -274,7 +274,7 @@ Turbolinks, as well as get around not using Sprockets
 ### Day 32: January 30, 2018 Tuesday
 
 ** Today's Progress**:
-- Got the python script to return data, using classes! 
+- Got the python script to return data, using classes!
 
 **Thoughts:**
 - I hope something good comes of learning all of these things.
@@ -328,7 +328,7 @@ went over pulling out data from an array of objects in Ruby.
 ### Day 38: February 5, 2018 Monday
 
 ** Today's Progress**:
-- Worked with the CSV Module in Python and got it to print the data to a new CSV! 
+- Worked with the CSV Module in Python and got it to print the data to a new CSV!
 - Had issue with unicode errors (next goal)
 
 **Thoughts:**
@@ -354,7 +354,7 @@ went over pulling out data from an array of objects in Ruby.
 ### Day 41: February 8, 2018 Thursday
 
 ** Today's Progress**:
-- Attended the Data Science Salon. 
+- Attended the Data Science Salon.
 - Learned about Dash framework for Python/data visualization
 - Had an impromptu interview and luncheon with Magic Leap
 - Learned how to program games in JavaScript using Phaser!
@@ -382,7 +382,7 @@ went over pulling out data from an array of objects in Ruby.
 - Learned a lot about UX/UI Design, JavaScript, and networked a LOT
 
 **Thoughts:**
-- Today was exhausting, but very productive! I hope good comes out of it. 
+- Today was exhausting, but very productive! I hope good comes out of it.
 
 
 ### Day 44: February 11, 2018 Sunday
@@ -397,7 +397,7 @@ went over pulling out data from an array of objects in Ruby.
 ### Day 45: February 12, 2018 Monday
 
 ** Today's Progress**:
-- TAed at Wyncode. 
+- TAed at Wyncode.
 - Went over some Python with Don. Still having trouble conditionally returning data via command line arguments.
 - Helped some students with git, GitHub, and merge conflicts
 
@@ -411,7 +411,7 @@ went over pulling out data from an array of objects in Ruby.
 - Had a coffee interview and talked JavaScript/React Native
 
 **Thoughts:**
-- I wish I had a job. This is killing my spirit. 
+- I wish I had a job. This is killing my spirit.
 
 ### Day 47: February 14, 2018 Wednesday
 
@@ -428,7 +428,7 @@ went over pulling out data from an array of objects in Ruby.
 - Got the command line argument --save to only write to CSV with that flag!
 
 **Thoughts:**
-- I would like to properly learn Python. 
+- I would like to properly learn Python.
 - Took a coding assessment, and found that I am "proficient" in HTML5
 
 ### Day 49: February 16, 2018 Friday
@@ -597,7 +597,7 @@ data in a Ruby on Rails app.
 - Took a day off and took it easy (had a biopsy)
 
 **Thoughts:**
-- On "days off", I generally read about code, or do the SoloLearn app. 
+- On "days off", I generally read about code, or do the SoloLearn app.
 
 ### Day 67: March 7, 2018 Wednesday
 
@@ -614,7 +614,7 @@ data in a Ruby on Rails app.
 - Learned about user authentication/authorization in Django
 
 **Thoughts:**
-- I don't think we'll test much at the job, but I feel like I can learn more about python by 
+- I don't think we'll test much at the job, but I feel like I can learn more about python by
 going to this meetup!
 - I like how straightforward everything seems to be with python and django
 
@@ -631,7 +631,7 @@ going to this meetup!
 
 ** Today's Progress**:
 - Did more sololearn/python
-- Met the team at a bbq	
+- Met the team at a bbq
 
 **Thoughts:**
 - I will be working with happy people..what a dream!
@@ -835,7 +835,7 @@ on my next chapter and have some substantial income/benefits :-)
 **Thoughts:**
 - The better I am at something (in music or otherwise), the more comfortable I am to be myself and joke around. That's such a nice feeling :)
 - Randall and Brooke explain things very well. I am lucky to be on this team, and think it's a good fit for me!!
-- Very glad it is Friday, because I'm tired today and am having a little bit of trouble focusing. 
+- Very glad it is Friday, because I'm tired today and am having a little bit of trouble focusing.
 
 ### Day 89: March 31, 2018 Saturday
 
@@ -882,7 +882,7 @@ on my next chapter and have some substantial income/benefits :-)
 ### Day 93: April 4, 2018 Wednesday
 
 ** Today's Progress**:
-- Worked through a view dataset with Randall, joining various tables in order to build a dataset that included expense data for a customer. 
+- Worked through a view dataset with Randall, joining various tables in order to build a dataset that included expense data for a customer.
 - Started the SQL course on Codecademy
 - Developer's meetup in the PM (we discussed some interesting topics, including a Stack Overflow survey of developers, Data is Beautiful on Reddit, and the merits of Ruby over Python or vice versa)
 
@@ -1014,12 +1014,12 @@ is finished
 ### R2 Day 6: April 17, 2018 Tuesday
 
 ** Today's Progress**
-- Confirmed the basic workflow for adding data to the app. 
+- Confirmed the basic workflow for adding data to the app.
 - Read a bit of Competing With Luck (next book to finish)
 - Randall showed me an edge case, full of complex SQL. It's fascinating to know what this querying language can do!
 
 **Thoughts:**
-- This book isn't as interesting, so far, as Deep Work, but I'll give it a chance! Both books are relevant to optimizing our lives as well as the product we're working on. 
+- This book isn't as interesting, so far, as Deep Work, but I'll give it a chance! Both books are relevant to optimizing our lives as well as the product we're working on.
 
 ### R2 Day 7: April 18, 2018 Wednesday
 
@@ -1086,6 +1086,25 @@ is finished
 
 **Thoughts:**
 - I am enjoying the process of getting to know the documentation and integrating this third party API into our app
+
+### R2 Day 14: April 25, 2018 Wednesday
+
+** Today's Progress**
+- Went into the console of my computer and removed the SetUp files, because I needed to re-setup my computer with
+my actual name, rather than my Mac Computer name being 'brightgauge'
+- Local environment was borked
+
+**Thoughts:**
+- I enjoy devops, but simply don't know enough to feel confident!
+
+### R2 Day 15: April 26, 2018 Thursday
+
+** Today's Progress**
+- Local environment is working, thanks to Sean!
+- Re-set up Sublime, git, bash profile settings, etc.
+
+**Thoughts:**
+- Everything is not only back to normal, but optimal!
 
 
 
