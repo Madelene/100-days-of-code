@@ -1102,9 +1102,10 @@ my actual name, rather than my Mac Computer name being 'brightgauge'
 ** Today's Progress**
 - Local environment is working, thanks to Sean!
 - Re-set up Sublime, git, bash profile settings, etc.
+- Learned some dev ops (minimal/Cassandra)
 
 **Thoughts:**
-- Everything is not only back to normal, but optimal!
+- My local database is still a bit borked, but Sublime and iterm are optimal!
 
 
 
