@@ -1111,6 +1111,18 @@ my actual name, rather than my Mac Computer name being 'brightgauge'
 - I am glad that meetings are not the "normal thing", here. That being said, the
 meeting went well.
 
+### R2 Day 16: April 27, 2018 Friday
+
+** Today's Progress**
+- Write a method in Python that will build a URI based on the base and endpoints/
+variables passed. Wrote it in a way that it will not matter the order of the
+variables/endpoints being passed!
+- Implementing pagination with third party API data calls
+
+**Thoughts:**
+-
+
+
 
 
 
