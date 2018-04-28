@@ -1120,7 +1120,8 @@ variables/endpoints being passed!
 - Implementing pagination with third party API data calls
 
 **Thoughts:**
--
+- Doing my own integration from start to finish will be challenging, but I feel like I have
+good people to help me, along the way (guidance!)
 
 
 
