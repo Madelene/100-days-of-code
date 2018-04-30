@@ -1146,10 +1146,20 @@ good people to help me, along the way (guidance!)
 - Trying to implement pagination. Understand the basic concept. Difficult to
 implement with this 3rd party API, as the params for each endpoint are not
 consistent
+- Read through the PEP8 StyleGuide for Python
+- Learned what the word "frobnicate" means: The word “frobnicate” in IT is a
+kind of techie slang that describes tweaking or fiddling with physical parts of
+a technology. Frobnicate has been regularly abbreviated as “frob” or related to
+a piece of hardware architecture called a “frobnitz.”
+- Learned that if a line is too long in the code, it may be better to assign
+a variable and pop that variable in that longer line
 
 **Thoughts:**
 - Learned that it's ok to work through getting stuck. And also to ask if a
 piece of knowledge is missing!
+- I found this interesting: Python 3 disallows mixing the use of tabs and
+spaces for indentation
+- Learned from the PEP8 styleguide that CamelCase can also be called "StudlyCaps"
 
 
 
