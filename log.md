@@ -1146,7 +1146,7 @@ good people to help me, along the way (guidance!)
 - Trying to implement pagination. Understand the basic concept. Difficult to
 implement with this 3rd party API, as the params for each endpoint are not
 consistent
-- Read through the PEP8 StyleGuide for Python
+- Read the PEP8 StyleGuide for Python
 - Learned what the word "frobnicate" means: The word “frobnicate” in IT is a
 kind of techie slang that describes tweaking or fiddling with physical parts of
 a technology. Frobnicate has been regularly abbreviated as “frob” or related to
