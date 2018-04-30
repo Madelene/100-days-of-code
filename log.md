@@ -1142,7 +1142,10 @@ good people to help me, along the way (guidance!)
 ### R2 Day 19: April 30, 2018 Monday
 
 ** Today's Progress**
-- Went over inheritance in OOP and pagination.
+- Read up on inheritance in OOP/how it works with Python
+- Trying to implement pagination. Understand the basic concept. Difficult to
+implement with this 3rd party API, as the params for each endpoint are not
+consistent
 
 **Thoughts:**
 - Learned that it's ok to work through getting stuck. And also to ask if a
