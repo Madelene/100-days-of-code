@@ -1139,7 +1139,14 @@ good people to help me, along the way (guidance!)
 **Thoughts:**
 - Day off
 
+### R2 Day 19: April 30, 2018 Monday
 
+** Today's Progress**
+- Went over inheritance in OOP and pagination.
+
+**Thoughts:**
+- Learned that it's ok to work through getting stuck. And also to ask if a
+piece of knowledge is missing!
 
 
 
