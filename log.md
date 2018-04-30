@@ -1123,6 +1123,26 @@ variables/endpoints being passed!
 - Doing my own integration from start to finish will be challenging, but I feel like I have
 good people to help me, along the way (guidance!)
 
+### R2 Day 17: April 28, 2018 Saturday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
+### R2 Day 18: April 29, 2018 Sunday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
+
+
+
+
 
 
 
