@@ -1167,7 +1167,8 @@ spaces for indentation
 - Pair programming with team lead. Learned more about how Python "works" and how
 to trace things back/reading errors.
 - Got my first datasource up and running (very exciting!)
-- Getting used to tracing things back/reading Python
+- Getting used to tracing things back/reading Python (and the structure of
+our app)
 
 **Thoughts:**
 - My team lead explains things very well! It is nice to pair with someone who
