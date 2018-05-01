@@ -1161,6 +1161,16 @@ piece of knowledge is missing!
 spaces for indentation
 - Learned from the PEP8 styleguide that CamelCase can also be called "StudlyCaps"
 
+### R2 Day 20: May 1, 2018 Tuessday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
+
+
 
 
 
