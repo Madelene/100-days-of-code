@@ -1167,10 +1167,13 @@ spaces for indentation
 - Pair programming with team lead. Learned more about how Python "works" and how
 to trace things back/reading errors.
 - Got my first datasource up and running (very exciting!)
+- Getting used to tracing things back/reading Python
 
 **Thoughts:**
 - My team lead explains things very well! It is nice to pair with someone who
 can explain things from the ground up, code-wise.
+- Today feels like a better day than yesterday, despite the fact that I did
+learn a lot (more productive)
 
 
 
