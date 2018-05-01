@@ -1164,10 +1164,13 @@ spaces for indentation
 ### R2 Day 20: May 1, 2018 Tuessday
 
 ** Today's Progress**
--
+- Pair programming with team lead. Learned more about how Python "works" and how
+to trace things back/reading errors.
+- Got my first datasource up and running (very exciting!)
 
 **Thoughts:**
--
+- My team lead explains things very well! It is nice to pair with someone who
+can explain things from the ground up, code-wise.
 
 
 
