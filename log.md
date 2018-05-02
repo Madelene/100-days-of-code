@@ -1176,6 +1176,15 @@ can explain things from the ground up, code-wise.
 - Today feels like a better day than yesterday, despite the fact that I did
 learn a lot (more productive)
 
+### R2 Day 21: May 2, 2018 Wednesday
+
+** Today's Progress**
+- Learning more and more about data, protecting data, GDPR, encryption
+
+**Thoughts:**
+- In this day and age, it is smart to think about these things!
+
+
 
 
 
