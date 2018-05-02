@@ -1185,10 +1185,11 @@ in Python. It is convention to write them with an underscore in front. Property
 helps with backwards compatibility. You can modify a class and implement a
 value constraint without changing too much of the code.
 - property() is a built-in function that creates and returns a property object.
+- Testing in python/shell
 
 **Thoughts:**
 - In this day and age, it is smart to think about these things!
-
+- Getting more used to testing in the python shell
 
 
 
