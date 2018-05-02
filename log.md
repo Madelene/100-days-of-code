@@ -1186,6 +1186,7 @@ helps with backwards compatibility. You can modify a class and implement a
 value constraint without changing too much of the code.
 - property() is a built-in function that creates and returns a property object.
 - Testing in python/shell
+- Got something to work as expected. Great success! :)
 
 **Thoughts:**
 - In this day and age, it is smart to think about these things!
