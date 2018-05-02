@@ -1180,6 +1180,11 @@ learn a lot (more productive)
 
 ** Today's Progress**
 - Learning more and more about data, protecting data, GDPR, encryption
+- Read about @property in Python. Learned that private variables do not exist
+in Python. It is convention to write them with an underscore in front. Property
+helps with backwards compatibility. You can modify a class and implement a
+value constraint without changing too much of the code.
+- property() is a built-in function that creates and returns a property object.
 
 **Thoughts:**
 - In this day and age, it is smart to think about these things!
