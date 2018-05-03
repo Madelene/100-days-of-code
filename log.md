@@ -1192,6 +1192,15 @@ value constraint without changing too much of the code.
 - In this day and age, it is smart to think about these things!
 - Getting more used to testing in the python shell
 
+### R2 Day 22: May 3, 2018 Thursday
+
+** Today's Progress**
+- Read more of Competing Against Luck by Clayton M. Christensen
+
+**Thoughts:**
+-
+
+
 
 
 
