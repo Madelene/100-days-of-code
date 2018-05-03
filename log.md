@@ -1204,15 +1204,4 @@ it in that repo as well)
 **Thoughts:**
 - I can't get over how much I'm learning! And it never seems to stop, even on
 "slower" days!
-
-
-
-
-
-
-
-
-
-
-
-
+- Loving my Sublime setup
