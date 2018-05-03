@@ -1196,9 +1196,14 @@ value constraint without changing too much of the code.
 
 ** Today's Progress**
 - Read more of Competing Against Luck by Clayton M. Christensen
+- Needed to rename a variable in order for the code to make more sense. Based
+on the results, testing the UI, I knew to change it in all repos (I almost forgot
+about the client-side, and when I didn't see my field anymore, I knew to change
+it in that repo as well)
 
 **Thoughts:**
--
+- I can't get over how much I'm learning! And it never seems to stop, even on
+"slower" days!
 
 
 
