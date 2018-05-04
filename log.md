@@ -1209,7 +1209,9 @@ it in that repo as well)
 ### R2 Day 23: May 4, 2018 Friday
 
 ** Today's Progress**
--
+- Verbally went through my PRs with my team lead. Learned about where to set
+variables in python (indentation matters!). Almost feels similar to JavaScript,
+checking for the state/if a prop is available before it actually is.
 
 **Thoughts:**
 -
