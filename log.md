@@ -1161,7 +1161,7 @@ piece of knowledge is missing!
 spaces for indentation
 - Learned from the PEP8 styleguide that CamelCase can also be called "StudlyCaps"
 
-### R2 Day 20: May 1, 2018 Tuessday
+### R2 Day 20: May 1, 2018 Tuesday
 
 ** Today's Progress**
 - Pair programming with team lead. Learned more about how Python "works" and how
@@ -1214,6 +1214,8 @@ variables in python (indentation matters!). Almost feels similar to JavaScript,
 checking for the state/if a prop is available before it actually is.
 - Fixed something wrong with the Sublime Jedi package I had installed. I could
 not type an open parenths. Changed a line in the keymap settings. All good!
+- Refactored and didn't break anything!
 
 **Thoughts:**
--
+- Refactoring makes sense WHY, but it's still icky to potentially break something
+that works perfectly/without errors!
