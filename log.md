@@ -1205,3 +1205,11 @@ it in that repo as well)
 - I can't get over how much I'm learning! And it never seems to stop, even on
 "slower" days!
 - Loving my Sublime setup
+
+### R2 Day 23: May 4, 2018 Friday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
