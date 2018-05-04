@@ -1212,6 +1212,8 @@ it in that repo as well)
 - Verbally went through my PRs with my team lead. Learned about where to set
 variables in python (indentation matters!). Almost feels similar to JavaScript,
 checking for the state/if a prop is available before it actually is.
+- Fixed something wrong with the Sublime Jedi package I had installed. I could
+not type an open parenths. Changed a line in the keymap settings. All good!
 
 **Thoughts:**
 -
