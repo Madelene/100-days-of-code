@@ -1241,6 +1241,7 @@ that works perfectly/without errors!
 ** Today's Progress**
 - Deployed my code to the QA environment. Still need to figure out how to migrate/
 read server logs in THAT environment. Could not test because of this blocker.
+- Took down the app (in production) because of a missing closing brace.
 
 **Thoughts:**
 - Getting there!
