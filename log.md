@@ -1219,3 +1219,27 @@ not type an open parenths. Changed a line in the keymap settings. All good!
 **Thoughts:**
 - Refactoring makes sense WHY, but it's still icky to potentially break something
 that works perfectly/without errors!
+
+### R2 Day 24: May 5, 2018 Saturday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Relaxing!
+
+### R2 Day 25: May 6, 2018 Sunday
+
+** Today's Progress**
+- Day off!
+
+**Thoughts:**
+- Same
+
+### R2 Day 26: May 7, 2018 Monday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
