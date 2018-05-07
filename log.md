@@ -1241,7 +1241,8 @@ that works perfectly/without errors!
 ** Today's Progress**
 - Deployed my code to the QA environment. Still need to figure out how to migrate/
 read server logs in THAT environment. Could not test because of this blocker.
-- Took down the app (in production) because of a missing closing brace.
+- Took down the app (in production) because of a missing closing brace. Installed flake8 in the
+terminal to be overly-cautious (no such thing!). Know what to look for in the deployment logs, now.
 
 **Thoughts:**
 - Getting there!
