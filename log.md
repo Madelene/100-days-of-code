@@ -1239,7 +1239,8 @@ that works perfectly/without errors!
 ### R2 Day 26: May 7, 2018 Monday
 
 ** Today's Progress**
--
+- Deployed my code to the QA environment. Still need to figure out how to migrate/
+read server logs in THAT environment. Could not test because of this blocker.
 
 **Thoughts:**
--
+- Getting there!
