@@ -1246,3 +1246,14 @@ terminal to be overly-cautious (no such thing!). Know what to look for in the de
 
 **Thoughts:**
 - Getting there!
+
+### R2 Day 27: Ma 8, 2018 Tuesday
+
+** Today's Progress**
+- Deployed a bug fix to production (all went well!)
+- Trying to get data to show, despite it "working". Probably need to do something in the code/iterate
+or *something* in order to get it to show. That will fix a huge blocker!
+
+**Thoughts:**
+- I feel a bit stuck, but once I figure this out, things should get rolling, again!
+- I "hope I'm doing it right"
