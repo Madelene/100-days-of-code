@@ -1270,6 +1270,8 @@ each id into a GET request/url.
 
 **Thoughts:**
 - Even though yesterday was frustrating, it feels so good to be unblocked and carry on being
-productive!
-
+productive
+- MUCH better day, coding-wise! It feels good to be able to try things out in the python console
+and apply them in the actual code/context. I was able to do this in Ruby/Rails. Getting better
+in this language!
 
