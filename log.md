@@ -1247,7 +1247,7 @@ terminal to be overly-cautious (no such thing!). Know what to look for in the de
 **Thoughts:**
 - Getting there!
 
-### R2 Day 27: Ma 8, 2018 Tuesday
+### R2 Day 27: May 8, 2018 Tuesday
 
 ** Today's Progress**
 - Deployed a bug fix to production (all went well!)
@@ -1257,3 +1257,16 @@ or *something* in order to get it to show. That will fix a huge blocker!
 **Thoughts:**
 - I feel a bit stuck, but once I figure this out, things should get rolling, again!
 - I "hope I'm doing it right"
+
+### R2 Day 28: May 9, 2018 Wednesday
+
+** Today's Progress**
+- Brooke unblocked me! I *knew* I needed to do something with the data, because I saw a list of objects.
+In order to return that data, it is necessary to iterate through the list in order to retrieve
+each object! She opened my eyes to doing it in an efficient way.
+
+**Thoughts:**
+- Even though yesterday was frustrating, it feels so good to be unblocked and carry on being
+productive!
+
+
