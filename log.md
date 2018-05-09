@@ -1264,6 +1264,10 @@ or *something* in order to get it to show. That will fix a huge blocker!
 - Brooke unblocked me! I *knew* I needed to do something with the data, because I saw a list of objects.
 In order to return that data, it is necessary to iterate through the list in order to retrieve
 each object! She opened my eyes to doing it in an efficient way.
+- I wrote a complicated Python function that called another function, in order to retrieve a certain
+id, and then grabbed all of those ids, popped them into a list, iterated through that list, and popped
+each id into a GET request/url. Running into a few errors (Unhandled data type), but it was neat to see
+that function "work" in the console.
 
 **Thoughts:**
 - Even though yesterday was frustrating, it feels so good to be unblocked and carry on being
