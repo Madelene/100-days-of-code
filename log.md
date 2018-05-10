@@ -1275,3 +1275,15 @@ productive
 and apply them in the actual code/context. I was able to do this in Ruby/Rails. Getting better
 in this language!
 
+### R2 Day 29: May 10, 2018 Thursday
+
+** Today's Progress**
+- Added another endpoint. Understanding more and getting more efficient. "Travelling" in between
+environments is still "scary", but I do tend to do things methodically and thoughtfully, for the most
+part, so should eventually be very good/competent
+
+**Thoughts:**
+- Tired today.
+
+
+
