@@ -1281,6 +1281,9 @@ in this language!
 - Added another endpoint. Understanding more and getting more efficient. "Travelling" in between
 environments is still "scary", but I do tend to do things methodically and thoughtfully, for the most
 part, so should eventually be very good/competent
+- Trying to return all key/values from a json response, and iterate through arrays, if needed
+- It seemed like everything was working. Now, I have a bunch of bugs. Authentication: refresh token
+isn't triggering.
 
 **Thoughts:**
 - Tired today.
