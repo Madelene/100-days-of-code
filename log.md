@@ -1299,5 +1299,21 @@ isn't triggering.
 **Thoughts:**
 - Much more "with it" today!
 
+### R2 Day 31: May 12, 2018 Saturday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
+### R2 Day 32: May 13, 2018 Sunday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
 
 
