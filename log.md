@@ -1288,5 +1288,15 @@ isn't triggering.
 **Thoughts:**
 - Tired today.
 
+### R2 Day 30: May 11, 2018 Friday
+
+** Today's Progress**
+- Learned about overriding classes and methods (interface) in Python/Django
+- Getting more familiar with how to debug using print statements
+- Getting more familiar in the console
+
+**Thoughts:**
+- Much more "with it" today!
+
 
 
