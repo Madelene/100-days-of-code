@@ -1294,6 +1294,7 @@ isn't triggering.
 - Learned about overriding classes and methods (interface) in Python/Django
 - Getting more familiar with how to debug using print statements
 - Getting more familiar in the console
+- Learned more about refreshing a token and fixed the refresh bug! Tested my code on the QA environment.
 
 **Thoughts:**
 - Much more "with it" today!
