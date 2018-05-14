@@ -1318,10 +1318,13 @@ isn't triggering.
 ### R2 Day 33: May 14, 2018 Monday
 
 ** Today's Progress**
-- Converting datetime to unicode in python
+- Converting datetime to unicode in python (found out the requests library does that! I thought
+I was being clever!)
+- Re-read the docs and refactored the tasks to work exactly as expected.
 
 **Thoughts:**
 - Getting more used to working in the python console
+- Nice to be able to take the time to do things *correctly*
 
 
 
