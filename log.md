@@ -1302,18 +1302,26 @@ isn't triggering.
 ### R2 Day 31: May 12, 2018 Saturday
 
 ** Today's Progress**
--
+- Day off
 
 **Thoughts:**
--
+- Day off
 
 ### R2 Day 32: May 13, 2018 Sunday
 
 ** Today's Progress**
--
+- Day off
 
 **Thoughts:**
--
+- Day off
+
+### R2 Day 33: May 14, 2018 Monday
+
+** Today's Progress**
+- Converting datetime to unicode in python
+
+**Thoughts:**
+- Getting more used to working in the python console
 
 
 
