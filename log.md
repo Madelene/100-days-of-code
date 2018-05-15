@@ -1331,6 +1331,7 @@ I was being clever!)
 ** Today's Progress**
 - Released my code to QA, tested, and then released to Production and tested!
 - Worked remotely (we have a mandatory/optional remote day!)
+- Wrote some SQL/built out some datasets
 
 **Thoughts:**
 - I love having this option to work remotely. So far, the morning went well with the
