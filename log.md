@@ -1326,5 +1326,16 @@ I was being clever!)
 - Getting more used to working in the python console
 - Nice to be able to take the time to do things *correctly*
 
+### R2 Day 34: May 15, 2018 Tuesday
+
+** Today's Progress**
+- Released my code to QA, tested, and then released to Production and tested!
+- Worked remotely (we have a mandatory/optional remote day!)
+
+**Thoughts:**
+- I love having this option to work remotely. So far, the morning went well with the
+releases! A few teammates were my "release buddies", so they watched the logs carefully,
+and my team lead did the actual releases
+
 
 
