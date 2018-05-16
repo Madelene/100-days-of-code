@@ -1342,7 +1342,8 @@ and my team lead did the actual releases
 
 ** Today's Progress**
 - Back in the office!
+- Writing SQL!
 
 **Thoughts:**
--
+- Tonight kicks off BrightGauge's Data Driven Workshop. Looking forward to seeing what it's all about!
 
