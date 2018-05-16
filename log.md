@@ -1343,6 +1343,7 @@ and my team lead did the actual releases
 ** Today's Progress**
 - Back in the office!
 - Writing SQL!
+- Created datasets for my integration. Hope all of the data customers need is there!
 
 **Thoughts:**
 - Tonight kicks off BrightGauge's Data Driven Workshop. Looking forward to seeing what it's all about!
