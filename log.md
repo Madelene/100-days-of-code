@@ -1358,3 +1358,15 @@ and my team lead did the actual releases
 **Thoughts:**
 - It was awesome.
 
+### R2 Day 37: May 18, 2018 Friday
+
+** Today's Progress**
+- Last day of the Data Driven Workshop. Most customers are coming in for private sessions
+with support.
+- Wrote a write-up from yesterday's workshop
+
+**Thoughts:**
+- Good quote from Competing Against Luck: "Customers don't want products, they want solutions
+to their problems"
+
+
