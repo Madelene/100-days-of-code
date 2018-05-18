@@ -1368,5 +1368,23 @@ with support.
 **Thoughts:**
 - Good quote from Competing Against Luck: "Customers don't want products, they want solutions
 to their problems"
+- A bit of a slow/unfocused day (I'm waiting on customers to get back to me)
+
+### R2 Day 38: May 19, 2018 Saturday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Chillaxing
+
+### R2 Day 39: May 20, 2018 Sunday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
 
 
