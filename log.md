@@ -1350,3 +1350,11 @@ and my team lead did the actual releases
 - Tonight kicks off BrightGauge's Data Driven Workshop. Looking forward to seeing what it's all about!
 - The big takeaway is that Jobs To Be Done is less product oriented and more process oriented.
 
+### R2 Day 36: May 17, 2018 Thursday
+
+** Today's Progress**
+- Data Driven Workshop at BrightGauge Software!
+
+**Thoughts:**
+- It was awesome.
+
