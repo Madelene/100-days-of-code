@@ -1386,5 +1386,11 @@ to their problems"
 **Thoughts:**
 - Day off
 
+### R2 Day 40: May 21, 2018 Monday
 
+** Today's Progress**
+- Building gauges with real data. Learning about the data, intimately
+
+**Thoughts:**
+- I am nervous, and hope I can finish this integration on time. Baby steps
 
