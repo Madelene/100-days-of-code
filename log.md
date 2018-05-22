@@ -1395,3 +1395,13 @@ to their problems"
 - I am nervous, and hope I can finish this integration on time. Baby steps
 - By 4PM, I was playing with real data, building gauges, and even a nice-looking dashboard!
 
+### R2 Day 41: May 22, 2018 Tuesday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
+
+
