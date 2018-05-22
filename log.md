@@ -1398,10 +1398,14 @@ to their problems"
 ### R2 Day 41: May 22, 2018 Tuesday
 
 ** Today's Progress**
--
+- Joined one table to another in a view dataset, but the fields weren't matching up.
+Realized that I needed to use the LOWER() function in SQL to standardize the data (make all of the
+characters of the string lowercase, so they'd match if the characters are the same!)
+- Trying to implement pagination using a ContinuationToken. Read up on these/how they're used/how
+to implement in Python. Rails has a gem called will_paginate which was very easy to use!
 
 **Thoughts:**
--
+- Yesterday and today were intense but good days! Learning a lot!
 
 
 
