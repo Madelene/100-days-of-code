@@ -1417,7 +1417,13 @@ Pushed to production!! (No errors)
 - I really like how Brooke "makes me" refactor. It's really neat when I'm able to do it, and it
 STILL works! :)
 
+### R2 Day 43: May 24, 2018 Thursday
 
+** Today's Progress**
+-
+
+**Thoughts:**
+-
 
 
 
