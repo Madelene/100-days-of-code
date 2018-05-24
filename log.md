@@ -1420,10 +1420,11 @@ STILL works! :)
 ### R2 Day 43: May 24, 2018 Thursday
 
 ** Today's Progress**
--
+- Customers can now see what I've built, with their own data!
+- Today is a mandatory/optional remote day. Working in my sweats at my kitchen table :)
 
 **Thoughts:**
--
+- I hope I get helpful feedback and am able to implement their requests :)
 
 
 
