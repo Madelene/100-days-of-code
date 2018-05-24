@@ -1407,5 +1407,17 @@ to implement in Python. Rails has a gem called will_paginate which was very easy
 **Thoughts:**
 - Yesterday and today were intense but good days! Learning a lot!
 
+### R2 Day 42: May 23, 2018 Wednesday
+
+** Today's Progress**
+- Wrote code to implement pagination, using a continuation token (pretty neat!) in Python.
+Pushed to production!! (No errors)
+
+**Thoughts:**
+- I really like how Brooke "makes me" refactor. It's really neat when I'm able to do it, and it
+STILL works! :)
+
+
+
 
 
