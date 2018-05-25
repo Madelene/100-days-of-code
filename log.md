@@ -1426,5 +1426,15 @@ STILL works! :)
 **Thoughts:**
 - I hope I get helpful feedback and am able to implement their requests :)
 
+### R2 Day 44: May 25, 2018 Friday
+
+** Today's Progress**
+- Back in the office!
+
+**Thoughts:**
+-
+
+
+
 
 
