@@ -1430,9 +1430,10 @@ STILL works! :)
 
 ** Today's Progress**
 - Back in the office!
+- Built some drilldowns for the current gauges, based on the integration's console's gauges.
 
 **Thoughts:**
--
+- I hope I'm doing the "right thing". I like displaying data :)
 
 
 
