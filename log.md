@@ -1435,6 +1435,16 @@ STILL works! :)
 **Thoughts:**
 - I hope I'm doing the "right thing". I like displaying data :)
 
+### R2 Day 45: May 26, 2018 Saturday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
+
+
 
 
 
