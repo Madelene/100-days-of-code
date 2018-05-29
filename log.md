@@ -1451,6 +1451,14 @@ STILL works! :)
 **Thoughts:**
 - Day off
 
+### R2 Day 47: May 28, 2018 Monday
+
+** Today's Progress*
+- Day off
+
+**Thoughts:**
+- Day off
+
 
 
 
