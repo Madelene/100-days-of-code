@@ -1462,10 +1462,10 @@ STILL works! :)
 ### R2 Day 48: May 29, 2018 Tuesday
 
 ** Today's Progress**
--
+- Created more gauges and some reports. Making progress! Waiting on customer input to really fine tune.
 
 **Thoughts:**
--
+- Doing my best!
 
 
 
