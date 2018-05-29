@@ -1459,6 +1459,13 @@ STILL works! :)
 **Thoughts:**
 - Day off
 
+### R2 Day 48: May 29, 2018 Tuesday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
 
 
 
