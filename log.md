@@ -1474,6 +1474,7 @@ STILL works! :)
 you can do blah.status in order to get the value of a status, for example.
 - learned that .get() and grabbing a value with [] are the same, but the .get() allows you to
 return a default value
+- Had some downtime, so read through the Python documentation and did some Python on Codecademy
 
 **Thoughts:**
 - Better day! Working on another task/updating our code to reflect a v3 for an external api
