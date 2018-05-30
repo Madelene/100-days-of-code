@@ -1472,6 +1472,8 @@ STILL works! :)
 ** Today's Progress**
 - Learned that I need to do a blah.get('key') in order to check the value of a dict in python. In ruby,
 you can do blah.status in order to get the value of a status, for example.
+- learned that .get() and grabbing a value with [] are the same, but the .get() allows you to
+return a default value
 
 **Thoughts:**
 - Better day! Working on another task/updating our code to reflect a v3 for an external api
