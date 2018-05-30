@@ -1453,7 +1453,7 @@ STILL works! :)
 
 ### R2 Day 47: May 28, 2018 Monday
 
-** Today's Progress*
+** Today's Progress**
 - Day off
 
 **Thoughts:**
@@ -1466,6 +1466,15 @@ STILL works! :)
 
 **Thoughts:**
 - Doing my best!
+
+### R2 Day 49: May 30, 2018 Wednesday
+
+** Today's Progress**
+- Learned that I need to do a blah.get('key') in order to check the value of a dict in python. In ruby,
+you can do blah.status in order to get the value of a status, for example.
+
+**Thoughts:**
+- Better day! Working on another task/updating our code to reflect a v3 for an external api
 
 
 
