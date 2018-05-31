@@ -1486,6 +1486,8 @@ return a default value
 on a PR for the other task I was given.
 - Started reading through Python documentation, yesterday. I really want to know this language.
 I love it!
+- Worked on a v3 upgrade for one of our integrations. Intense! Many catch22s/timing of releases
+is important as well as the order of parts that are released.
 
 **Thoughts:**
 - Python is awesome.
