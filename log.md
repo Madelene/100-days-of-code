@@ -1488,6 +1488,7 @@ on a PR for the other task I was given.
 I love it!
 - Worked on a v3 upgrade for one of our integrations. Intense! Many catch22s/timing of releases
 is important as well as the order of parts that are released.
+- Met with integration (online meeting). They're going to onboard themselves and test.
 
 **Thoughts:**
 - Python is awesome.
