@@ -1479,6 +1479,17 @@ return a default value
 **Thoughts:**
 - Better day! Working on another task/updating our code to reflect a v3 for an external api
 
+### R2 Day 50: May 31, 2018 Thursday
+
+** Today's Progress**
+- Did more Codecademy Python. Waiting to get customer feedback for my integration, and waiting
+on a PR for the other task I was given.
+- Started reading through Python documentation, yesterday. I really want to know this language.
+I love it!
+
+**Thoughts:**
+- Python is awesome.
+
 
 
 
