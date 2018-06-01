@@ -1493,6 +1493,13 @@ is important as well as the order of parts that are released.
 **Thoughts:**
 - Python is awesome.
 
+### R2 Day 51: June 1, 2018 Friday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
 
 
 
