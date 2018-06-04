@@ -1529,7 +1529,8 @@ is important as well as the order of parts that are released.
 - I do have a bit of skepticism on if I "did it right", but have received some good feedback,
 so I'll go with that. Like what the CTO says: "If there are bugs, we'll fix them!"
 - Had trouble setting up my localsettings.py in order to onboard the datasource I'm testing.
-Now, getting Authentication Errors.
+Now, getting Authentication Errors. Figured out the base URLs are different in the different environments!
+What a great find!
 
 
 
