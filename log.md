@@ -1523,10 +1523,13 @@ is important as well as the order of parts that are released.
 ** Today's Progress**
 - My first integration is live!
 - Wrote documentation on how to set it up with our product.
+- Testing an upgrade of another datasource (to v3)
 
 **Thoughts:**
 - I do have a bit of skepticism on if I "did it right", but have received some good feedback,
 so I'll go with that. Like what the CTO says: "If there are bugs, we'll fix them!"
+- Had trouble setting up my localsettings.py in order to onboard the datasource I'm testing.
+Now, getting Authentication Errors.
 
 
 
