@@ -1496,6 +1496,31 @@ is important as well as the order of parts that are released.
 ### R2 Day 51: June 1, 2018 Friday
 
 ** Today's Progress**
+- Symlinked telnet to my system.
+- Did more Python Codecademy
+
+**Thoughts:**
+- National donut day! A co-worker brought in amazing donuts :)
+
+### R2 Day 52: June 2, 2018 Saturday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
+### R2 Day 53: June 3, 2018 Sunday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off
+
+### R2 Day 54: June 4, 2018 Monday
+
+** Today's Progress**
 -
 
 **Thoughts:**
