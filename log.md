@@ -1521,10 +1521,12 @@ is important as well as the order of parts that are released.
 ### R2 Day 54: June 4, 2018 Monday
 
 ** Today's Progress**
--
+- My first integration is live!
+- Wrote documentation on how to set it up with our product.
 
 **Thoughts:**
--
+- I do have a bit of skepticism on if I "did it right", but have received some good feedback,
+so I'll go with that. Like what the CTO says: "If there are bugs, we'll fix them!"
 
 
 
