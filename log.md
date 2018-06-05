@@ -1536,6 +1536,8 @@ What a great find!
 
 ** Today's Progress**
 - More testing and SQL!
+- Figured out how to test one of our integrations, locally, and wrote documentation
+about how to do so.
 
 **Thoughts:**
 - Had a shout-out at our monthly meeting for finishing my first integration! Fun!
