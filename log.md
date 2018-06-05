@@ -1532,6 +1532,15 @@ so I'll go with that. Like what the CTO says: "If there are bugs, we'll fix them
 Now, getting Authentication Errors. Figured out the base URLs are different in the different environments!
 What a great find!
 
+### R2 Day 55: June 5, 2018 Tuesday
+
+** Today's Progress**
+- More testing and SQL!
+
+**Thoughts:**
+- Had a shout-out at our monthly meeting for finishing my first integration! Fun!
+
+
 
 
 
