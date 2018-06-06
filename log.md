@@ -1542,6 +1542,15 @@ about how to do so.
 **Thoughts:**
 - Had a shout-out at our monthly meeting for finishing my first integration! Fun!
 
+### R2 Day 56: June 6, 2018 Wednesday
+
+** Today's Progress**
+- Researching and learning more about each integration.
+- Writing documentation.
+
+**Thoughts:**
+- I love the idea of documentation. This should make the job incredibly easy!
+
 
 
 
