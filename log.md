@@ -1556,6 +1556,8 @@ about how to do so.
 
 ** Today's Progress**
 - Working on a bug for my integration/one endpoint
+- Reading through docs to see if we're able to pull data without
+having certain access.
 
 **Thoughts:**
 - Remote day! Love it.
