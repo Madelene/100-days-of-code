@@ -1558,6 +1558,7 @@ about how to do so.
 - Working on a bug for my integration/one endpoint
 - Reading through docs to see if we're able to pull data without
 having certain access.
+- Google Sandbox event: Day 2
 
 **Thoughts:**
 - Remote day! Love it.
