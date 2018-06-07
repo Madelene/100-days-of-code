@@ -1547,10 +1547,18 @@ about how to do so.
 ** Today's Progress**
 - Researching and learning more about each integration.
 - Writing documentation.
+- Went to a Google Sandbox event: very cool!
 
 **Thoughts:**
 - I love the idea of documentation. This should make the job incredibly easy!
 
+### R2 Day 57: June 7, 2018 Thursday
+
+** Today's Progress**
+- Working on a bug for my integration/one endpoint
+
+**Thoughts:**
+- Remote day! Love it.
 
 
 
