@@ -1559,9 +1559,19 @@ about how to do so.
 - Reading through docs to see if we're able to pull data without
 having certain access.
 - Google Sandbox event: Day 2
+- There were fireside chats, and we got to hear from one of the developers/his
+experience working as a Google engineer.
 
 **Thoughts:**
 - Remote day! Love it.
+
+### R2 Day 58: June 8, 2018 Friday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
 
 
 
