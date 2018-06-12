@@ -1610,9 +1610,10 @@ Need to ensure I'm pulling from the correct fields
 
 ** Today's Progress**
 - Answered a ticket to the best of my ability.
+- Figuring out how to filter data to return less. No good options in this API.
 
 **Thoughts:**
--
+- Like my team lead says, "each API has a different personality"
 
 
 
