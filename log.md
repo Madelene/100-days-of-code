@@ -1568,10 +1568,43 @@ experience working as a Google engineer.
 ### R2 Day 58: June 8, 2018 Friday
 
 ** Today's Progress**
--
+- Felt inspired from the Google Sandbox event
 
 **Thoughts:**
--
+- I would like to read/make my way through Cracking the Coding Interview to learn
+the crazy algorithms Google requires in a hiring interview.
+
+### R2 Day 59: June 9, 2018 Saturday
+
+** Today's Progress**
+- Worked on upgrading one of our integrations from v1 to v3
+
+**Thoughts:**
+- We chose today because it wouldn't affect the Aussie, UK or USA
+customers, timezone-wise
+- I don't mind doing this, because today was the exception, not the rule,
+and we are efficient in doing what we need to do, so it doesn't feel
+like a waste of time.
+
+### R2 Day 60: June 10, 2018 Sunday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- Day off/watched Anime with a friend :)
+
+### R2 Day 61: June 11, 2018 Monday
+
+** Today's Progress**
+- Time flew, today. Worked deeply through some issues. Trying to figure out
+how to create a column that conditionally renders results. Data was not correct.
+Need to ensure I'm pulling from the correct fields
+- Updated things on my local to point to only 1 repo, now, at work (not 5!)
+
+**Thoughts:**
+- My team lead gives me feedback, which always is helpful. So, I feel like I'm
+"doing the job right". If I am not, she'll let me know and I can correct!
 
 
 
