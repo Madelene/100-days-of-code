@@ -1606,6 +1606,15 @@ Need to ensure I'm pulling from the correct fields
 - My team lead gives me feedback, which always is helpful. So, I feel like I'm
 "doing the job right". If I am not, she'll let me know and I can correct!
 
+### R2 Day 62: June 12, 2018 Tuesday
+
+** Today's Progress**
+- Answered a ticket to the best of my ability.
+
+**Thoughts:**
+-
+
+
 
 
 
