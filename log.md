@@ -1615,6 +1615,14 @@ Need to ensure I'm pulling from the correct fields
 **Thoughts:**
 - Like my team lead says, "each API has a different personality"
 
+### R2 Day 63: June 13, 2018 Wednesday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
 
 
 
