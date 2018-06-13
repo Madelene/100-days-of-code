@@ -1611,6 +1611,7 @@ Need to ensure I'm pulling from the correct fields
 ** Today's Progress**
 - Answered a ticket to the best of my ability.
 - Figuring out how to filter data to return less. No good options in this API.
+- Did more codecademy Python....75%!
 
 **Thoughts:**
 - Like my team lead says, "each API has a different personality"
@@ -1618,7 +1619,9 @@ Need to ensure I'm pulling from the correct fields
 ### R2 Day 63: June 13, 2018 Wednesday
 
 ** Today's Progress**
--
+- I'd like to knock out these 5 to-dos before the next cycle (my goal)
+- Coded a way to convert datetime to epoch in Python and calculated 30 days prior
+to today's date, in order to only pull in 30 days worth of data!
 
 **Thoughts:**
 -
