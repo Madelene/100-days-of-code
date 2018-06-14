@@ -1630,10 +1630,7 @@ to today's date, in order to only pull in 30 days worth of data!
 ### R2 Day 64: June 14, 2018 Thursday
 
 ** Today's Progress**
--
-
-**Thoughts:**
-
+- Remote work day!
 
 **Thoughts:**
 -
