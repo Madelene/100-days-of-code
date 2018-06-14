@@ -1622,6 +1622,18 @@ Need to ensure I'm pulling from the correct fields
 - I'd like to knock out these 5 to-dos before the next cycle (my goal)
 - Coded a way to convert datetime to epoch in Python and calculated 30 days prior
 to today's date, in order to only pull in 30 days worth of data!
+- Had a conversation about how to convert/do calculations with epoch time.
+
+**Thoughts:**
+- Despite my way being "cooler", my team lead's way was "better" hehe
+
+### R2 Day 64: June 14, 2018 Thursday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+
 
 **Thoughts:**
 -
