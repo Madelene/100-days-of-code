@@ -1631,6 +1631,8 @@ to today's date, in order to only pull in 30 days worth of data!
 
 ** Today's Progress**
 - Remote work day!
+- Deployed a new datastore to production with my team lead
+- Hopefully resolved issues for 2 customers, because of it!
 
 **Thoughts:**
 - Loving these remote days :)
