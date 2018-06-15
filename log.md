@@ -1637,6 +1637,14 @@ to today's date, in order to only pull in 30 days worth of data!
 **Thoughts:**
 - Loving these remote days :)
 
+### R2 Day 65: June 15, 2018 Friday
+
+** Today's Progress**
+-
+
+**Thoughts:**
+-
+
 
 
 
