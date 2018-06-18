@@ -1640,10 +1640,35 @@ to today's date, in order to only pull in 30 days worth of data!
 ### R2 Day 65: June 15, 2018 Friday
 
 ** Today's Progress**
--
+- Solved a lot of problems today!
 
 **Thoughts:**
--
+- My team lead will be out of town next week
+
+### R2 Day 66: June 16, 2018 Saturday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- WORLD CUP
+
+### R2 Day 67: June 17, 2018 Sunday
+
+** Today's Progress**
+- Day off
+
+**Thoughts:**
+- WORLD CUP
+
+### R2 Day 68: June 18, 2018 Monday
+
+** Today's Progress**
+- Spent all day trying to flatten a list inside of an object!!!!
+
+**Thoughts:**
+- This was difficult, because I was returning the primary key as well as the object (and in other
+examples, it's not that way!)
 
 
 
