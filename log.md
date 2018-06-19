@@ -1672,3 +1672,12 @@ objects inside of the list. LESSON LEARNED
 **Thoughts:**
 - This was difficult, because I was returning the primary key as well as the object (and in other
 examples, it's not that way!)
+
+### R2 Day 69: June 19, 2018 Tuesday
+
+** Today's Progress**
+- Confirmed that what I'm trying to do IS more complicated than we realized
+
+**Thoughts:**
+- It's been a frustrating 2 days, but it's a 'clean up week', so it's ok
+- Today is my 3 month anniversary at work!
