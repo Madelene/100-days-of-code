@@ -1665,15 +1665,10 @@ to today's date, in order to only pull in 30 days worth of data!
 
 ** Today's Progress**
 - Spent all day trying to flatten a list inside of an object!!!!
+- The architecture of what I'm trying to do, made me realize that maybe this isn't the best way.
+- I'd simply need to iterate through the list...not flatten anything, as there were no
+objects inside of the list. LESSON LEARNED
 
 **Thoughts:**
 - This was difficult, because I was returning the primary key as well as the object (and in other
 examples, it's not that way!)
-
-
-
-
-
-
-
-
