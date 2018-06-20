@@ -1692,4 +1692,13 @@ with the team lead
 - TIL that every "try" must have an "except" in Python
 
 **Thoughts:**
+- Working through a few items for clean up week. Will hopefully be able to knock them
+all out/finalize on Friday!
+
+### R2 Day 71: June 21, 2018 Thursdsay
+
+** Today's Progress**
 -
+
+**Thoughts:**
+- Remote day at work!
