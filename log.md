@@ -1689,6 +1689,7 @@ examples, it's not that way!)
 past 3 months, here. (Thankful!)
 - Moving on to another task and will revisit the one I was working on, this Friday
 with the team lead
+- TIL that every "try" must have an "except" in Python
 
 **Thoughts:**
 -
