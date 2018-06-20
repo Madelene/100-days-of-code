@@ -1681,3 +1681,14 @@ examples, it's not that way!)
 **Thoughts:**
 - It's been a frustrating 2 days, but it's a 'clean up week', so it's ok
 - Today is my 3 month anniversary at work!
+
+### R2 Day 70: June 20, 2018 Wednesday
+
+** Today's Progress**
+- Got a really nice email from my team lead and CEO about the work I've done for the
+past 3 months, here. (Thankful!)
+- Moving on to another task and will revisit the one I was working on, this Friday
+with the team lead
+
+**Thoughts:**
+-
