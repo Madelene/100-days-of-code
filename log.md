@@ -1698,7 +1698,8 @@ all out/finalize on Friday!
 ### R2 Day 71: June 21, 2018 Thursdsay
 
 ** Today's Progress**
--
+- 2 separate tasks...not sure if I'm making progress on either!
+- Should be able to wrap them up tomorrow :)
 
 **Thoughts:**
 - Remote day at work!
