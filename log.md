@@ -1703,3 +1703,11 @@ all out/finalize on Friday!
 
 **Thoughts:**
 - Remote day at work!
+
+### R2 Day 72: June 22, 2018 Friday
+
+** Today's Progress**
+- Was able to finally implement the seemingly impossible task!
+
+**Thoughts:**
+- I love this job. I feel competent and am learning a lot every day!
