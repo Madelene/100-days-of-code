@@ -1734,6 +1734,7 @@ amount of patience, and I learn a LOT! Everything she explains makes sense.
 ### R2 Day 75: June 25, 2018 Monday
 - Clean up in the morning
 - Start reading up on new integration
+- Dealt with a lot of bugs
 
 **Thoughts:**
 - Pushed my versioning code into production - awesome!
