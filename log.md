@@ -1708,6 +1708,35 @@ all out/finalize on Friday!
 
 ** Today's Progress**
 - Was able to finally implement the seemingly impossible task!
+- My team lead pushes my abilities to the limit, and I love it. She has a great
+amount of patience, and I learn a LOT! Everything she explains makes sense.
 
 **Thoughts:**
 - I love this job. I feel competent and am learning a lot every day!
+
+### R2 Day 73: June 23, 2018 Saturday
+
+** Today's Progress**
+- Day off/World Cup
+
+**Thoughts:**
+- Day off
+
+### R2 Day 74: June 24, 2018 Sunday
+
+** Today's Progress**
+- Day off/World Cup
+- Met up with a DevOps engineer from Denmark and geeked out.
+
+**Thoughts:**
+- Day off
+
+### R2 Day 75: June 25, 2018 Monday
+- Clean up in the morning
+- Start reading up on new integration
+
+**Thoughts:**
+- Pushed my versioning code into production - awesome!
+
+
+
