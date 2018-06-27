@@ -1732,12 +1732,33 @@ amount of patience, and I learn a LOT! Everything she explains makes sense.
 - Day off
 
 ### R2 Day 75: June 25, 2018 Monday
+
+** Today's Progress**
 - Clean up in the morning
 - Start reading up on new integration
 - Dealt with a lot of bugs
 
 **Thoughts:**
 - Pushed my versioning code into production - awesome!
+
+### R2 Day 76: June 26, 2018 Tuesday
+
+**Today's Progress**
+- Completely started onboarding a new integration: Backup Radar!
+- Had a call with Auvik for a future integration with them.
+- Worked with Sketch with the integration logo
+- Ordered Sketch and expensed it
+
+**Thoughts:**
+- I love this job.
+
+### R2 Day 77: June 27, 2018 Wednesday
+
+**Today's Progress**
+- Made more progress with the integration
+
+**Thoughts:**
+-
 
 
 
