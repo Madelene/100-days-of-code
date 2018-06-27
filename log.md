@@ -1756,6 +1756,9 @@ amount of patience, and I learn a LOT! Everything she explains makes sense.
 
 **Today's Progress**
 - Made more progress with the integration
+- Learned about gulp css and not needing to hand-make changes
+with this command.
+- Got integration icons to show in app
 
 **Thoughts:**
 -
