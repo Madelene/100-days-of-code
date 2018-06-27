@@ -1759,9 +1759,11 @@ amount of patience, and I learn a LOT! Everything she explains makes sense.
 - Learned about gulp css and not needing to hand-make changes
 with this command.
 - Got integration icons to show in app
+- Got datasource to onboard, as well!
 
 **Thoughts:**
--
+- I thought my due date for this task was today. It's actually "due" NEXT
+Wednesday. Efficiency FTW!
 
 
 
