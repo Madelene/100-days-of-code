@@ -1765,5 +1765,18 @@ with this command.
 - I thought my due date for this task was today. It's actually "due" NEXT
 Wednesday. Efficiency FTW!
 
+### R2 Day 78: June 28, 2018 Thursday
+
+**Today's Progress**
+- Remote day.
+- Pushed my integration code up to QA, again, and then to prod. Nothing broke/all good!
+
+**Thoughts:**
+- I love feeling competent. It motivates me to want to be better and better,
+and keep learning!
+- Never bored in this field!
+- I feel respected at this job, too. So nice.
+
+
 
 
