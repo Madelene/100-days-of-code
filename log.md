@@ -1777,6 +1777,17 @@ and keep learning!
 - Never bored in this field!
 - I feel respected at this job, too. So nice.
 
+### R2 Day 79: June 29, 2018 Friday
+
+**Today's Progress**
+- I really like overhearing the devOps conversations/higher-level architecture problems
+and how they go about thinking/discussing these issues.
+- I want to want to do devOps, but am not sure I'd like to deal with all of the issues
+they face. Seems a bit masochistic!
+
+**Thoughts:**
+-
+
 
 
 
