@@ -1784,9 +1784,11 @@ and keep learning!
 and how they go about thinking/discussing these issues.
 - I want to want to do devOps, but am not sure I'd like to deal with all of the issues
 they face. Seems a bit masochistic!
+- Because we all did very well, this month, we will have an early happy hour (with catering!).
+Also, to start off the flex week.
 
 **Thoughts:**
--
+- Love this job.
 
 
 
